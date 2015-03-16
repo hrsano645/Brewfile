@@ -66,6 +66,7 @@ install libsvm
 install libtasn1
 install libtiff
 install libtool
+install mackup
 install mobile-shell
 install mpfr
 install mtr
