@@ -9,8 +9,8 @@ cask install alfred
 cask install appcleaner
 cask install atom
 cask install bettertouchtool
+cask install bittorrent-sync
 cask install blender
-cask install cleanmymac
 cask install coteditor
 cask install disk-inventory-x
 cask install dropbox
@@ -78,6 +78,7 @@ install python3
 install readline
 install sqlite
 install versions
+install wakeonlan
 install wireshark --with-qt
 install xz
 install zeromq
