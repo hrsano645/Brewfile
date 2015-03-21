@@ -1,8 +1,8 @@
 
 # tap repositories and their packages
 
-## Caskroom/cask
-tap Caskroom/cask
+## caskroom/cask
+tap caskroom/cask
 install brew-cask
 cask install adobe-air
 cask install alfred
@@ -33,9 +33,6 @@ cask install teamviewer
 cask install timemachinescheduler
 cask install vagrant
 
-## caskroom/cask
-tap caskroom/cask
-
 ## caskroom/versions
 tap caskroom/versions
 cask install sublime-text-dev
@@ -52,38 +49,51 @@ install brew-file
 tap sanemat/font
 
 # Other Homebrew packages
+install c-ares
 install cairo
 install czmq
+install d-bus
 install fontconfig
 install fontforge
 install freetype
 install gdbm
+install geoip
 install gettext
 install glib
+install gmp
+install gnutls
 install gobject-introspection
 install harfbuzz
 install icu4c
 install jpeg
 install libffi
+install libgcrypt
+install libgpg-error
 install libpng
+install libtasn1
 install libtiff
 install libtool
 install mackup
-install mosh
+install mobile-shell
+install nettle
 install openssl
 install pango
 install pixman
+install pkg-config
+install protobuf
 install python
 install python3
+install qt
 install readline
 install sqlite
-install versions
 install wakeonlan
 install wireshark --with-qt
 install xz
 install zeromq
 
 # App Store applications
+appstore Blackmagic Disk Speed Test
+appstore CleanMyDrive
 appstore FormatMatch
 appstore LanScan Pro
 appstore LINE
@@ -91,4 +101,6 @@ appstore Microsoft Remote Desktop
 appstore Mindcad Tiler
 appstore Network Strength
 appstore QCamera
+appstore Sunrise
 appstore The Unarchiver
+appstore WinArchiver
