@@ -107,7 +107,7 @@ brew readline
 brew sqlite
 brew thefuck
 brew wakeonlan
-brew wireshark --with-qt
+brew wireshark --with-qt --with-qt
 brew xz
 brew zeromq
 
