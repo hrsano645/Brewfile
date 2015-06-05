@@ -20,7 +20,7 @@ cask dropbox
 cask evernote
 cask google-chrome
 cask google-japanese-ime
-cask google-plus-auto-backup
+cask google-photos-backup
 cask horndis
 cask iterm2
 cask karabiner
@@ -60,6 +60,7 @@ brew brew-file
 tap sanemat/font
 
 # Other Homebrew packages
+brew android-platform-tools
 brew arp-scan
 brew bash-completion
 brew c-ares
@@ -107,7 +108,7 @@ brew readline
 brew sqlite
 brew thefuck
 brew wakeonlan
-brew wireshark --with-qt --with-qt
+brew wireshark --with-qt
 brew xz
 brew zeromq
 
@@ -119,7 +120,6 @@ appstore LanScan Pro
 appstore LINE
 appstore Microsoft Remote Desktop
 appstore Mindcad Tiler
-appstore Network Strength
 appstore QCamera
 appstore Sunrise
 appstore The Unarchiver
