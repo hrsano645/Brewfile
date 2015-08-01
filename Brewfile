@@ -21,6 +21,8 @@ cask evernote
 cask google-chrome
 cask google-japanese-ime
 cask google-photos-backup
+cask handbrake
+cask handbrakecli
 cask horndis
 cask iterm2
 cask karabiner
@@ -106,6 +108,7 @@ brew python3
 brew qt
 brew readline
 brew sqlite
+brew ssh-copy-id
 brew thefuck
 brew wakeonlan
 brew wireshark --with-qt
@@ -116,11 +119,12 @@ brew zeromq
 appstore Blackmagic Disk Speed Test
 appstore FormatMatch
 appstore iMovie
+appstore Kobito
 appstore LanScan Pro
 appstore LINE
 appstore Microsoft Remote Desktop
 appstore Mindcad Tiler
 appstore QCamera
-appstore Sunrise
+appstore Sunrise Calendar
 appstore The Unarchiver
 appstore WinArchiver
