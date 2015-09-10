@@ -18,12 +18,14 @@ cask cyberduck
 cask disk-inventory-x
 cask dropbox
 cask evernote
+cask gimp
 cask google-chrome
 cask google-japanese-ime
 cask google-photos-backup
 cask handbrake
 cask handbrakecli
 cask horndis
+cask inkscape
 cask iterm2
 cask karabiner
 cask keyboard-cleaner
@@ -34,8 +36,10 @@ cask openscad
 cask pandoc
 cask parallels-desktop
 cask pycharm-ce
+cask real-vnc
 cask scroll-reverser
 cask seil
+cask sony-ericsson-bridge
 cask sourcetree
 cask teamviewer
 cask timemachineeditor
@@ -43,6 +47,7 @@ cask tunnelbear
 cask vagrant
 cask visual-studio-code
 cask vlc
+cask xld
 
 ## caskroom/versions
 tap caskroom/versions
@@ -82,6 +87,7 @@ brew gnutls
 brew gobject-introspection
 brew harfbuzz
 brew hping
+brew httpie
 brew httping
 brew icu4c
 brew iperf
@@ -111,7 +117,7 @@ brew sqlite
 brew ssh-copy-id
 brew thefuck
 brew wakeonlan
-brew wireshark --with-qt
+brew wireshark --with-qt --with-qt
 brew xz
 brew zeromq
 
