@@ -15,6 +15,7 @@ cask bittorrent-sync
 cask blender
 cask coteditor
 cask cyberduck
+cask dash
 cask disk-inventory-x
 cask dropbox
 cask evernote
@@ -29,6 +30,7 @@ cask inkscape
 cask iterm2
 cask karabiner
 cask keyboard-cleaner
+cask kindle
 cask librecad
 cask libreoffice
 cask minecraft
@@ -45,7 +47,6 @@ cask teamviewer
 cask timemachineeditor
 cask tunnelbear
 cask vagrant
-cask visual-studio-code
 cask vlc
 cask xld
 
