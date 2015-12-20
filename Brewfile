@@ -11,7 +11,6 @@ cask appcleaner
 cask applepi-baker
 cask atom
 cask bettertouchtool
-cask bittorrent-sync
 cask blender
 cask coteditor
 cask cyberduck
@@ -38,10 +37,8 @@ cask openscad
 cask pandoc
 cask parallels-desktop
 cask pycharm-ce
-cask real-vnc
 cask scroll-reverser
 cask seil
-cask sony-ericsson-bridge
 cask sourcetree
 cask teamviewer
 cask timemachineeditor
@@ -49,6 +46,7 @@ cask tunnelbear
 cask vagrant
 cask vlc
 cask xld
+cask xquartz
 
 ## caskroom/versions
 tap caskroom/versions
@@ -85,6 +83,7 @@ brew gettext
 brew glib
 brew gmp
 brew gnutls
+brew go
 brew gobject-introspection
 brew harfbuzz
 brew hping
@@ -97,6 +96,7 @@ brew libffi
 brew libgcrypt
 brew libgpg-error
 brew libpng
+brew libsodium
 brew libtasn1
 brew libtiff
 brew libtool
@@ -110,28 +110,4 @@ brew pango
 brew pixman
 brew pkg-config
 brew protobuf
-brew python
-brew python3
-brew qt
-brew readline
-brew sqlite
-brew ssh-copy-id
-brew thefuck
-brew wakeonlan
-brew wireshark --with-qt --with-qt
-brew xz
 brew zeromq
-
-# App Store applications
-appstore Blackmagic Disk Speed Test
-appstore FormatMatch
-appstore iMovie
-appstore Kobito
-appstore LanScan Pro
-appstore LINE
-appstore Microsoft Remote Desktop
-appstore Mindcad Tiler
-appstore QCamera
-appstore Sunrise Calendar
-appstore The Unarchiver
-appstore WinArchiver
