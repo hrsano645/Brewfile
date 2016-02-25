@@ -1,18 +1,20 @@
 
 # tap repositories and their packages
 
-## caskroom/cask
 tap caskroom/cask
 brew brew-cask
+cask 1password
 cask adobe-air
 cask alfred
 cask android-file-transfer
+cask android-studio
 cask appcleaner
 cask applepi-baker
 cask atom
 cask bettertouchtool
 cask blender
 cask coteditor
+cask couleurs
 cask cyberduck
 cask dash
 cask disk-inventory-x
@@ -32,38 +34,42 @@ cask keyboard-cleaner
 cask kindle
 cask librecad
 cask libreoffice
+cask loading
+cask logitech-unifying
 cask minecraft
+cask music-manager
 cask openscad
 cask pandoc
 cask parallels-desktop
-cask pycharm-ce
 cask scroll-reverser
 cask seil
+cask slack
+cask sony-ericsson-bridge
 cask sourcetree
-cask teamviewer
 cask timemachineeditor
 cask tunnelbear
 cask vagrant
 cask vlc
+cask wireshark
 cask xld
 cask xquartz
 
-## caskroom/versions
 tap caskroom/versions
 cask firefox-ja
 cask java7
+cask pycharm-ce
 cask sublime-text-dev
 
-## homebrew/versions
 tap homebrew/versions
 brew docker141
 
-## rcmdnk/file
 tap rcmdnk/file
 brew brew-file
 
-## sanemat/font
 tap sanemat/font
+
+tap argon/mas
+brew mas
 
 # Other Homebrew packages
 brew android-platform-tools
@@ -104,10 +110,16 @@ brew mackup
 brew mobile-shell
 brew nettle
 brew nmap
+brew noti
 brew openssl
 brew pandoc
 brew pango
 brew pixman
 brew pkg-config
 brew protobuf
+brew python
+brew python3
+brew ssh-copy-id
+brew wget
+brew wireshark
 brew zeromq
