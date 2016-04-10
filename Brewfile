@@ -128,3 +128,16 @@ tap sanemat/font
 # Other Homebrew packages
 brew glib
 brew libgpg-error
+
+# App Store applications
+appstore 824171161 Affinity Designer
+appstore 539883307 LINE
+appstore 562184107 LanScan Pro
+appstore 715768417 Microsoft Remote Desktop
+appstore 598853070 QCamera
+appstore 1035516352 ScanSnap Cloud
+appstore 886106985 Sunrise Calendar
+appstore 425424353 The Unarchiver
+appstore 485812721 TweetDeck
+appstore 413215883 WinArchiver
+appstore 408981434 iMovie
