@@ -1,6 +1,9 @@
 
 # tap repositories and their packages
 
+tap argon/mas
+brew mas
+
 tap caskroom/cask
 brew brew-cask
 cask 1password
@@ -20,6 +23,7 @@ cask dash
 cask disk-inventory-x
 cask dropbox
 cask evernote
+cask flux
 cask gimp
 cask google-chrome
 cask google-japanese-ime
@@ -60,18 +64,7 @@ cask java7
 cask pycharm-ce
 cask sublime-text-dev
 
-tap homebrew/versions
-brew docker141
-
-tap rcmdnk/file
-brew brew-file
-
-tap sanemat/font
-
-tap argon/mas
-brew mas
-
-# Other Homebrew packages
+tap homebrew/core
 brew android-platform-tools
 brew arp-scan
 brew bash-completion
@@ -86,7 +79,6 @@ brew freetype
 brew gdbm
 brew geoip
 brew gettext
-brew glib
 brew gmp
 brew gnutls
 brew go
@@ -100,7 +92,6 @@ brew iperf
 brew jpeg
 brew libffi
 brew libgcrypt
-brew libgpg-error
 brew libpng
 brew libsodium
 brew libtasn1
@@ -119,7 +110,21 @@ brew pkg-config
 brew protobuf
 brew python
 brew python3
+brew readline
+brew sqlite
 brew ssh-copy-id
 brew wget
 brew wireshark
 brew zeromq
+
+tap homebrew/versions
+brew docker141
+
+tap rcmdnk/file
+brew brew-file
+
+tap sanemat/font
+
+# Other Homebrew packages
+brew glib
+brew libgpg-error
