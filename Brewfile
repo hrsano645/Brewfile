@@ -6,16 +6,16 @@ brew mas
 
 tap caskroom/cask
 brew brew-cask
+cask 1clipboard
 cask 1password
 cask adobe-air
 cask alfred
 cask android-file-transfer
-cask android-studio
 cask appcleaner
 cask applepi-baker
-cask atom
 cask bettertouchtool
 cask blender
+cask cheatsheet
 cask coteditor
 cask couleurs
 cask cyberduck
@@ -23,22 +23,17 @@ cask dash
 cask disk-inventory-x
 cask dropbox
 cask evernote
-cask flux
-cask gimp
 cask google-chrome
 cask google-japanese-ime
 cask google-photos-backup
 cask handbrake
 cask handbrakecli
 cask horndis
-cask inkscape
+cask intel-power-gadget
 cask iterm2
 cask karabiner
 cask keyboard-cleaner
 cask kindle
-cask librecad
-cask libreoffice
-cask loading
 cask logitech-unifying
 cask minecraft
 cask music-manager
@@ -48,11 +43,13 @@ cask parallels-desktop
 cask scroll-reverser
 cask seil
 cask slack
-cask sony-ericsson-bridge
+cask slic3r
 cask sourcetree
+cask syncthing
 cask timemachineeditor
 cask tunnelbear
 cask vagrant
+cask vivaldi
 cask vlc
 cask wireshark
 cask xld
@@ -71,7 +68,6 @@ brew bash-completion
 brew c-ares
 brew cairo
 brew czmq
-brew d-bus
 brew fontconfig
 brew fontforge
 brew fping
@@ -118,7 +114,6 @@ brew wireshark
 brew zeromq
 
 tap homebrew/versions
-brew docker141
 
 tap rcmdnk/file
 brew brew-file
@@ -126,6 +121,8 @@ brew brew-file
 tap sanemat/font
 
 # Other Homebrew packages
+brew d-bus
+brew docker141
 brew glib
 brew libgpg-error
 
