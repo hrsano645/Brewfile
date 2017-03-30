@@ -142,12 +142,6 @@ tap sanemat/font
 # Other Homebrew packages
 brew android-platform-tools
 
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask firefox-ja (!)
-#cask handbrakecli (!)
-
 # App Store applications
 appstore 824171161 Affinity Designer (1.5.5)
 appstore 425264550 Blackmagic Disk Speed Test (3.0)
