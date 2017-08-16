@@ -28,6 +28,7 @@ cask dupeguru
 cask evernote
 cask fantastical
 cask firefox
+cask google-backup-and-sync
 cask google-chrome
 cask google-japanese-ime
 cask intel-power-gadget
@@ -75,75 +76,77 @@ cask sublime-text-dev
 tap homebrew/boneyard
 
 tap homebrew/core
-brew arp-scan
+brew node
 brew autossh
-brew bash-completion
-brew c-ares
+brew mackup
+brew nmap
 brew cairo
+brew libtiff
+brew lftp
+brew harfbuzz
+brew s3cmd
 brew chromedriver
-brew czmq
-brew dbus
+brew libffi
+brew hping
+brew wget
+brew go
+brew gdbm
+brew readline
+brew pcre
+brew gobject-introspection
+brew git
+brew libgpg-error
+brew libunistring
+brew pandoc
+brew mobile-shell
+brew openvpn
+brew gettext
 brew fontconfig
 brew fontforge
-brew fping
-brew freetype
-brew gdbm
-brew geoip
-brew gettext
-brew git
-brew glib
-brew gmp
-brew gnutls
-brew go
-brew gobject-introspection
-brew graphite2
-brew harfbuzz
-brew hping
-brew httpie
-brew httping
-brew icu4c
-brew iperf3
-brew jpeg
-brew kotlin
-brew lftp
-brew libffi
-brew libgcrypt
-brew libgpg-error
-brew libidn
+brew ssh-copy-id
+brew python3
+brew arp-scan
 brew libpng
-brew libsodium
-brew libtasn1
-brew libtiff
-brew libtool
-brew libunistring
-brew lzo
-brew mackup
-brew mobile-shell
-brew nettle
-brew nmap
-brew node
+brew zeromq
+brew gmp
 brew noti
-brew openssl
-brew openssl@1.1
-brew openvpn
-brew p11-kit
-brew pandoc
-brew pango
-brew pcre
+brew xz
 brew pixman
-brew pkg-config
+brew glib
+brew libsodium
+brew freetype
 brew protobuf
 brew python
-brew python3
-brew readline
-brew s3cmd
+brew czmq
+brew libidn
+brew fping
+brew bash-completion
+brew graphite2
 brew sqlite
-brew ssh-copy-id
+brew libtool
+brew jpeg
+brew lzo
+brew openssl@1.1
+brew httpie
+brew gnutls
+brew pango
+brew c-ares
+brew libgcrypt
+brew httping
+brew iperf3
+brew tree
+brew p11-kit
+brew exa
+brew geoip
+brew dbus
+brew libtasn1
+brew openssl
+brew icu4c
+brew nettle
+brew kotlin
 brew syncthing
-brew wget
 brew wireshark
-brew xz
-brew zeromq
+brew pkg-config
 
 tap homebrew/versions
 
@@ -153,23 +156,22 @@ brew brew-file
 tap sanemat/font
 
 # Cask applications
-cask google-photos-backup
 cask java7
 
 # App Store applications
 appstore 824171161 Affinity Designer (1.5.5)
 appstore 425264550 Blackmagic Disk Speed Test (3.1)
-appstore 868968810 Fusion360 (1.24.1)
+appstore 868968810 Fusion360 (1.25.1)
 appstore 682658836 GarageBand (10.2.0)
 appstore 789656124 Image Vectorizer (1.6)
 appstore 408981434 iMovie (10.1.6)
-appstore 1127487414 Install macOS Sierra (12.4.06)
+appstore 1142151959 JustFocus (1.3.4)
 appstore 409183694 Keynote (7.2)
 appstore 472226235 LanScan (4.3)
 appstore 562184107 LanScan Pro (4.1)
 appstore 539883307 LINE (5.2.2)
 appstore 714196447 MenuBar Stats (2.2)
-appstore 715768417 Microsoft Remote Desktop (8.0.27310)
+appstore 715768417 Microsoft Remote Desktop (8.0.27312)
 appstore 409203825 Numbers (4.2)
 appstore 409201541 Pages (6.2)
 appstore 598853070 Quick Camera (1.2)
