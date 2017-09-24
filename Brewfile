@@ -11,6 +11,7 @@ cask alfred
 cask android-studio
 cask androidtool
 cask appcleaner
+cask arduino
 cask bartender
 cask bettertouchtool
 cask boostnote
@@ -97,7 +98,7 @@ brew gobject-introspection
 brew git
 brew libgpg-error
 brew libunistring
-brew pandoc
+brew lua
 brew mobile-shell
 brew openvpn
 brew gettext
@@ -139,6 +140,7 @@ brew p11-kit
 brew exa
 brew geoip
 brew dbus
+brew pandoc
 brew libtasn1
 brew openssl
 brew icu4c
@@ -161,23 +163,24 @@ cask java7
 # App Store applications
 appstore 824171161 Affinity Designer (1.5.5)
 appstore 425264550 Blackmagic Disk Speed Test (3.1)
-appstore 868968810 Fusion360 (1.25.1)
+appstore 868968810 Fusion360 (1.26.3)
 appstore 682658836 GarageBand (10.2.0)
+appstore 980327293 Go for YouTube (1.8)
 appstore 789656124 Image Vectorizer (1.6)
 appstore 408981434 iMovie (10.1.6)
 appstore 1142151959 JustFocus (1.3.4)
-appstore 409183694 Keynote (7.2)
+appstore 409183694 Keynote (7.3)
 appstore 472226235 LanScan (4.3)
 appstore 562184107 LanScan Pro (4.1)
-appstore 539883307 LINE (5.2.2)
+appstore 539883307 LINE (5.3.0)
 appstore 714196447 MenuBar Stats (2.2)
-appstore 715768417 Microsoft Remote Desktop (8.0.27312)
-appstore 409203825 Numbers (4.2)
-appstore 409201541 Pages (6.2)
+appstore 715768417 Microsoft Remote Desktop (8.0.27319)
+appstore 409203825 Numbers (4.3)
+appstore 409201541 Pages (6.3)
 appstore 598853070 Quick Camera (1.2)
 appstore 1035516352 ScanSnap Cloud (1.2.10)
 appstore 1153157709 Speedtest (1.3)
 appstore 704088911 TEPRA SMA3 (1.12)
-appstore 425424353 The Unarchiver (3.11.1)
+appstore 425424353 The Unarchiver (3.11.3)
 appstore 413215883 WinArchiver (2.5.3)
-appstore 497799835 Xcode (8.3.3)
+appstore 497799835 Xcode (9.0)
