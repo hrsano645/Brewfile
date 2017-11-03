@@ -1,8 +1,85 @@
 
 # tap repositories and their packages
 
-tap argon/mas
+tap homebrew/core
+brew arp-scan
+brew autossh
+brew bash-completion
+brew c-ares
+brew cairo
+brew chromedriver
+brew czmq
+brew dbus
+brew exa
+brew fontconfig
+brew fontforge
+brew fping
+brew freetype
+brew gdbm
+brew geoip
+brew gettext
+brew git
+brew glib
+brew gmp
+brew gnutls
+brew go
+brew gobject-introspection
+brew graphite2
+brew harfbuzz
+brew hping
+brew httpie
+brew httping
+brew icu4c
+brew iperf3
+brew jpeg
+brew kotlin
+brew lftp
+brew libffi
+brew libgcrypt
+brew libgpg-error
+brew libidn
+brew libpng
+brew libsodium
+brew libtasn1
+brew libtiff
+brew libtool
+brew libunistring
+brew lua
+brew lzo
+brew mackup
 brew mas
+brew mosh
+brew nettle
+brew nmap
+brew node
+brew noti
+brew openssl
+brew openssl@1.1
+brew openvpn
+brew p11-kit
+brew pandoc
+brew pango
+brew pcre
+brew pixman
+brew pkg-config
+brew protobuf
+brew python
+brew python3
+brew readline
+brew s3cmd
+brew sqlite
+brew ssh-copy-id
+brew syncthing
+brew tree
+brew wget
+brew wireshark
+brew xz
+brew yarn
+brew zeromq
+
+tap homebrew/boneyard
+
+tap homebrew/versions
 
 tap caskroom/cask
 cask 1password
@@ -11,7 +88,6 @@ cask alfred
 cask android-studio
 cask androidtool
 cask appcleaner
-cask arduino
 cask bartender
 cask bettertouchtool
 cask boostnote
@@ -34,6 +110,7 @@ cask google-chrome
 cask google-japanese-ime
 cask intel-power-gadget
 cask iterm2
+cask java
 cask karabiner-elements
 cask keyboard-cleaner
 cask kindle
@@ -43,7 +120,6 @@ cask libreoffice
 cask minecraft
 cask music-manager
 cask openscad
-cask parallels-desktop
 cask pycharm
 cask rescuetime
 cask scroll-reverser
@@ -74,83 +150,7 @@ cask font-source-han-code-jp
 tap caskroom/versions
 cask sublime-text-dev
 
-tap homebrew/boneyard
-
-tap homebrew/core
-brew node
-brew autossh
-brew mackup
-brew nmap
-brew cairo
-brew libtiff
-brew lftp
-brew harfbuzz
-brew s3cmd
-brew chromedriver
-brew libffi
-brew hping
-brew wget
-brew go
-brew gdbm
-brew readline
-brew pcre
-brew gobject-introspection
-brew git
-brew libgpg-error
-brew libunistring
-brew lua
-brew mobile-shell
-brew openvpn
-brew gettext
-brew fontconfig
-brew fontforge
-brew ssh-copy-id
-brew python3
-brew arp-scan
-brew libpng
-brew zeromq
-brew gmp
-brew noti
-brew xz
-brew pixman
-brew glib
-brew libsodium
-brew freetype
-brew protobuf
-brew python
-brew czmq
-brew libidn
-brew fping
-brew bash-completion
-brew graphite2
-brew sqlite
-brew libtool
-brew jpeg
-brew lzo
-brew openssl@1.1
-brew httpie
-brew gnutls
-brew pango
-brew c-ares
-brew libgcrypt
-brew httping
-brew iperf3
-brew tree
-brew p11-kit
-brew exa
-brew geoip
-brew dbus
-brew pandoc
-brew libtasn1
-brew openssl
-brew icu4c
-brew nettle
-brew kotlin
-brew syncthing
-brew wireshark
-brew pkg-config
-
-tap homebrew/versions
+tap argon/mas
 
 tap rcmdnk/file
 brew brew-file
@@ -159,22 +159,23 @@ tap sanemat/font
 
 # Cask applications
 cask java7
+cask parallels-desktop
 
 # App Store applications
-appstore 824171161 Affinity Designer (1.5.5)
+appstore 824171161 Affinity Designer (1.6.0)
 appstore 425264550 Blackmagic Disk Speed Test (3.1)
-appstore 868968810 Fusion360 (1.26.3)
+appstore 868968810 Fusion360 (1.28.3)
 appstore 682658836 GarageBand (10.2.0)
 appstore 980327293 Go for YouTube (1.8)
 appstore 789656124 Image Vectorizer (1.6)
-appstore 408981434 iMovie (10.1.6)
+appstore 408981434 iMovie (10.1.8)
 appstore 1142151959 JustFocus (1.3.4)
 appstore 409183694 Keynote (7.3)
 appstore 472226235 LanScan (4.3)
 appstore 562184107 LanScan Pro (4.1)
-appstore 539883307 LINE (5.3.0)
-appstore 714196447 MenuBar Stats (2.2)
-appstore 715768417 Microsoft Remote Desktop (8.0.27319)
+appstore 539883307 LINE (5.3.3)
+appstore 714196447 MenuBar Stats (2.2.6)
+appstore 715768417 Microsoft Remote Desktop (8.0.27325)
 appstore 409203825 Numbers (4.3)
 appstore 409201541 Pages (6.3)
 appstore 598853070 Quick Camera (1.2)
@@ -183,4 +184,4 @@ appstore 1153157709 Speedtest (1.3)
 appstore 704088911 TEPRA SMA3 (1.12)
 appstore 425424353 The Unarchiver (3.11.3)
 appstore 413215883 WinArchiver (2.5.3)
-appstore 497799835 Xcode (9.0)
+appstore 497799835 Xcode (9.1)
