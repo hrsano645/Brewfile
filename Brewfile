@@ -26,6 +26,7 @@ brew go
 brew gobject-introspection
 brew graphite2
 brew harfbuzz
+brew hostess
 brew hping
 brew httpie
 brew httping
@@ -108,7 +109,6 @@ cask firefox
 cask google-backup-and-sync
 cask google-chrome
 cask google-japanese-ime
-cask intel-power-gadget
 cask iterm2
 cask java
 cask karabiner-elements
@@ -148,7 +148,6 @@ tap caskroom/fonts
 cask font-source-han-code-jp
 
 tap caskroom/versions
-cask sublime-text-dev
 
 tap argon/mas
 
@@ -181,7 +180,7 @@ appstore 409201541 Pages (6.3)
 appstore 598853070 Quick Camera (1.2)
 appstore 1035516352 ScanSnap Cloud (1.2.10)
 appstore 1153157709 Speedtest (1.3)
-appstore 704088911 TEPRA SMA3 (1.12)
+appstore 704088911 TEPRA SMA3 (1.13)
 appstore 425424353 The Unarchiver (3.11.3)
 appstore 413215883 WinArchiver (2.5.3)
 appstore 497799835 Xcode (9.1)
