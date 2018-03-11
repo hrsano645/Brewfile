@@ -165,9 +165,6 @@ brew brew-file
 
 tap sanemat/font
 
-# Cask applications
-cask winbox
-
 # App Store applications
 appstore 824171161 Affinity Designer (1.6.0)
 appstore 425264550 Blackmagic Disk Speed Test (3.1)
