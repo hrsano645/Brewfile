@@ -104,7 +104,6 @@ cask karabiner-elements
 cask tunnelblick
 cask wine-stable
 cask macdown
-cask intellij-idea
 cask vivaldi
 cask parallels
 cask parallels-toolbox
@@ -120,7 +119,6 @@ cask kindle
 cask dash
 cask vagrant
 cask libreoffice
-cask clipy
 cask rescuetime
 cask libreoffice-language-pack
 cask android-studio
@@ -143,6 +141,7 @@ cask disk-inventory-x
 cask java
 cask music-manager
 cask sourcetree
+cask joshaven-winbox
 cask alfred
 cask bettertouchtool
 cask pycharm
