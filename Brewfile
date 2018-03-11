@@ -106,6 +106,8 @@ cask wine-stable
 cask macdown
 cask intellij-idea
 cask vivaldi
+cask parallels
+cask parallels-toolbox
 cask google-backup-and-sync
 cask thunderbird
 cask evernote
@@ -164,7 +166,6 @@ brew brew-file
 tap sanemat/font
 
 # Cask applications
-cask parallels-desktop
 cask winbox
 
 # App Store applications
