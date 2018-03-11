@@ -84,8 +84,6 @@ brew zeromq
 
 tap homebrew/boneyard
 
-tap homebrew/versions
-
 tap caskroom/cask
 cask 1password
 cask adobe-air
@@ -157,8 +155,6 @@ cask logitech-unifying
 
 tap caskroom/fonts
 cask font-source-han-code-jp
-
-tap caskroom/versions
 
 tap argon/mas
 
