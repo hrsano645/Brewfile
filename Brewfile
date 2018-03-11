@@ -130,7 +130,6 @@ cask keyboard-cleaner
 cask wireshark
 cask firefox
 cask bartender
-cask boostnote
 cask google-chrome
 cask xquartz
 cask android-platform-tools
