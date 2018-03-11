@@ -118,6 +118,7 @@ cask google-backup-and-sync
 cask google-chrome
 cask google-japanese-ime
 cask inkdrop
+cask intellij-idea
 cask iterm2
 cask java
 cask karabiner-elements
@@ -176,14 +177,14 @@ appstore 824171161 Affinity Designer (1.6.0)
 appstore 425264550 Blackmagic Disk Speed Test (3.1)
 appstore 868968810 Fusion360 (1.29.8)
 appstore 682658836 GarageBand (10.2.0)
-appstore 980327293 Go for YouTube (1.8)
 appstore 789656124 Image Vectorizer (1.6)
 appstore 408981434 iMovie (10.1.8)
+appstore 0 Install macOS High Sierra (13.1.05)
+appstore 0 Install macOS High Sierra (13.1.05)
 appstore 1142151959 JustFocus (1.3.4)
 appstore 409183694 Keynote (7.3.1)
 appstore 562184107 LanScan Pro (5.0)
 appstore 539883307 LINE (5.6.0)
-appstore  Install macOS High Sierra (13105)
 appstore 714196447 MenuBar Stats (2.2.6)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
 appstore 409203825 Numbers (4.3.1)
