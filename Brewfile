@@ -50,6 +50,7 @@ brew libtiff
 brew libtool
 brew libunistring
 brew lua
+brew lua@5.1
 brew lz4
 brew lzo
 brew mackup
@@ -89,13 +90,52 @@ brew zeromq
 
 tap homebrew/boneyard
 
+tap homebrew/cask-drivers
+cask logitech-unifying
+
+tap homebrew/cask-fonts
+cask font-source-han-code-jp
+
+tap homebrew/cask
+cask 1password
+cask aja-system-test
+cask android-platform-tools
+cask androidtool
+cask arduino
+cask bettertouchtool
+cask calibre
+cask clipy
+cask coteditor
+cask cyberduck
+cask discord
+cask dotnet-sdk
+cask dupeguru
+cask evernote
+cask firefox
+cask google-backup-and-sync
+cask google-japanese-ime
+cask iterm2
+cask jetbrains-toolbox
+cask karabiner-elements
+cask kindle
+cask libreoffice
+cask macdown
+cask music-manager
+cask parallels
+cask pibakery
+cask scroll-reverser
+cask skype
+cask slic3r
+cask spotify
+cask thunderbird
+cask tunnelblick
+cask unity
+cask visual-studio-code
+cask vlc
+cask wine-stable
+cask xld
+
 tap argon/mas
-
-tap caskroom/cask
-
-tap caskroom/drivers
-
-tap caskroom/fonts
 
 tap rcmdnk/file
 brew brew-file
@@ -106,92 +146,59 @@ tap sanemat/font
 brew chromedriver
 
 # Other Cask applications
-cask 1password
 cask adobe-air
-cask aja-system-test
 cask alfred
-cask android-platform-tools
 cask android-studio
-cask androidtool
 cask appcleaner
-cask arduino
 cask bartender
-cask bettertouchtool
+cask bluestacks
 cask cheatsheet
-cask clipy
 cask commander-one
-cask coteditor
 cask couleurs
-cask cyberduck
 cask dash
-cask discord
 cask disk-inventory-x
-cask dotnet-sdk
 cask dropbox
-cask dupeguru
 cask etcher
-cask evernote
 cask fantastical
-cask firefox
-cask font-source-han-code-jp
 cask fritzing
-cask google-backup-and-sync
 cask google-chrome
-cask google-japanese-ime
 cask inkdrop
-cask iterm2
 cask java
-cask jetbrains-toolbox
 cask joshaven-winbox
-cask karabiner-elements
 cask keyboard-cleaner
-cask kindle
 cask librecad
-cask libreoffice
 cask libreoffice-language-pack
-cask logitech-unifying
-cask macdown
 cask minecraft
-cask music-manager
 cask openscad
-cask parallels
 cask parallels-toolbox
-cask pibakery
 cask rescuetime
-cask scroll-reverser
 cask sharemouse
-cask skype
 cask slack
-cask slic3r
 cask sourcetree
-cask spotify
 cask teamviewer
-cask thunderbird
 cask timemachineeditor
-cask tunnelblick
 cask tusk
-cask unity
 cask vagrant
-cask visual-studio-code
 cask vivaldi
-cask vlc
 cask vnc-viewer
-cask wine-stable
 cask wireshark
-cask xld
 cask xquartz
 
 # App Store applications
 appstore 824171161 Affinity Designer (1.6.1)
-appstore 868968810 Fusion360 (1.30.3)
+appstore 425264550 Blackmagic Disk Speed Test (3.1)
+appstore 868968810 Fusion360 (1.30.5)
+appstore 682658836 GarageBand (10.2.0)
+appstore 789656124 Image Vectorizer (1.6)
+appstore 408981434 iMovie (10.1.9)
 appstore 1142151959 JustFocus (1.6.1)
-appstore 562184107 LanScan Pro (5.0)
-appstore 539883307 LINE (5.7.0)
+appstore 562184107 LanScan Pro (5.1.1)
+appstore 539883307 LINE (5.8.0)
 appstore 714196447 MenuBar Stats (2.2.6)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
 appstore 598853070 Quick Camera (1.2)
 appstore 1035516352 ScanSnap Cloud (1.2.10)
-appstore 1153157709 Speedtest (1.3)
+appstore 1153157709 Speedtest (1.5)
 appstore 704088911 TEPRA SMA3 (1.14)
-appstore 425424353 The Unarchiver (3.11.5)
+appstore 425424353 The Unarchiver (3.11.6)
 appstore 413215883 WinArchiver (2.5.3)
