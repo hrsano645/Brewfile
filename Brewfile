@@ -70,6 +70,7 @@ brew peco
 brew pipenv
 brew pixman
 brew pkg-config
+brew prometheus
 brew protobuf
 brew python
 brew python@2
@@ -88,7 +89,23 @@ brew zeromq
 
 tap homebrew/boneyard
 
+tap argon/mas
+
 tap caskroom/cask
+
+tap caskroom/drivers
+
+tap caskroom/fonts
+
+tap rcmdnk/file
+brew brew-file
+
+tap sanemat/font
+
+# Other Homebrew packages
+brew chromedriver
+
+# Other Cask applications
 cask 1password
 cask adobe-air
 cask aja-system-test
@@ -100,7 +117,6 @@ cask appcleaner
 cask arduino
 cask bartender
 cask bettertouchtool
-cask calibre
 cask cheatsheet
 cask clipy
 cask commander-one
@@ -110,12 +126,14 @@ cask cyberduck
 cask dash
 cask discord
 cask disk-inventory-x
+cask dotnet-sdk
 cask dropbox
 cask dupeguru
 cask etcher
 cask evernote
 cask fantastical
 cask firefox
+cask font-source-han-code-jp
 cask fritzing
 cask google-backup-and-sync
 cask google-chrome
@@ -131,6 +149,7 @@ cask kindle
 cask librecad
 cask libreoffice
 cask libreoffice-language-pack
+cask logitech-unifying
 cask macdown
 cask minecraft
 cask music-manager
@@ -150,36 +169,21 @@ cask teamviewer
 cask thunderbird
 cask timemachineeditor
 cask tunnelblick
+cask tusk
+cask unity
 cask vagrant
 cask visual-studio-code
 cask vivaldi
 cask vlc
+cask vnc-viewer
 cask wine-stable
 cask wireshark
 cask xld
 cask xquartz
 
-tap caskroom/drivers
-cask logitech-unifying
-
-tap caskroom/fonts
-cask font-source-han-code-jp
-
-tap argon/mas
-
-tap rcmdnk/file
-brew brew-file
-
-tap sanemat/font
-
-# Other Homebrew packages
-brew chromedriver
-
 # App Store applications
 appstore 824171161 Affinity Designer (1.6.1)
 appstore 868968810 Fusion360 (1.30.3)
-appstore 682658836 GarageBand (10.2.0)
-appstore 789656124 Image Vectorizer (1.6)
 appstore 1142151959 JustFocus (1.6.1)
 appstore 562184107 LanScan Pro (5.0)
 appstore 539883307 LINE (5.7.0)
