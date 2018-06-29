@@ -188,9 +188,7 @@ cask xquartz
 
 # App Store applications
 appstore 824171161 Affinity Designer (1.6.1)
-appstore 425264550 Blackmagic Disk Speed Test (3.1)
 appstore 868968810 Fusion360 (1.40.7)
-appstore 682658836 GarageBand (10.3.1)
 appstore 789656124 Image Vectorizer (1.6)
 appstore 408981434 iMovie (10.1.9)
 appstore 1142151959 JustFocus (1.6.1)
