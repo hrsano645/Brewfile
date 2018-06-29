@@ -11,6 +11,7 @@ brew cairo
 brew czmq
 brew dbus
 brew exa
+brew fish
 brew fontconfig
 brew fontforge
 brew fping
@@ -67,6 +68,7 @@ brew p11-kit
 brew pandoc
 brew pango
 brew pcre
+brew pcre2
 brew peco
 brew pipenv
 brew pixman
@@ -187,8 +189,8 @@ cask xquartz
 # App Store applications
 appstore 824171161 Affinity Designer (1.6.1)
 appstore 425264550 Blackmagic Disk Speed Test (3.1)
-appstore 868968810 Fusion360 (1.30.5)
-appstore 682658836 GarageBand (10.2.0)
+appstore 868968810 Fusion360 (1.40.7)
+appstore 682658836 GarageBand (10.3.1)
 appstore 789656124 Image Vectorizer (1.6)
 appstore 408981434 iMovie (10.1.9)
 appstore 1142151959 JustFocus (1.6.1)
@@ -200,5 +202,5 @@ appstore 598853070 Quick Camera (1.2)
 appstore 1035516352 ScanSnap Cloud (1.2.10)
 appstore 1153157709 Speedtest (1.5)
 appstore 704088911 TEPRA SMA3 (1.14)
-appstore 425424353 The Unarchiver (3.11.6)
+appstore 425424353 The Unarchiver (4.0.0)
 appstore 413215883 WinArchiver (2.5.3)
