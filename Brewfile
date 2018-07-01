@@ -190,7 +190,6 @@ cask xquartz
 appstore 824171161 Affinity Designer (1.6.1)
 appstore 868968810 Fusion360 (1.40.7)
 appstore 789656124 Image Vectorizer (1.6)
-appstore 408981434 iMovie (10.1.9)
 appstore 1142151959 JustFocus (1.6.1)
 appstore 562184107 LanScan Pro (5.1.1)
 appstore 539883307 LINE (5.8.0)
