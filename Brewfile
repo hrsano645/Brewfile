@@ -110,55 +110,6 @@ cask clipy
 cask coteditor
 cask cyberduck
 cask discord
-cask dotnet-sdk
-cask dupeguru
-cask evernote
-cask firefox
-cask google-backup-and-sync
-cask google-japanese-ime
-cask iterm2
-cask jetbrains-toolbox
-cask karabiner-elements
-cask kindle
-cask libreoffice
-cask macdown
-cask music-manager
-cask parallels
-cask pibakery
-cask scroll-reverser
-cask skype
-cask slic3r
-cask spotify
-cask thunderbird
-cask tunnelblick
-cask unity
-cask visual-studio-code
-cask vlc
-cask wine-stable
-cask xld
-
-tap argon/mas
-
-tap rcmdnk/file
-brew brew-file
-
-tap sanemat/font
-
-# Other Homebrew packages
-brew chromedriver
-
-# Other Cask applications
-cask adobe-air
-cask alfred
-cask android-studio
-cask appcleaner
-cask bartender
-cask bluestacks
-cask cheatsheet
-cask commander-one
-cask couleurs
-cask dash
-cask disk-inventory-x
 cask dropbox
 cask etcher
 cask fantastical
@@ -185,6 +136,54 @@ cask vivaldi
 cask vnc-viewer
 cask wireshark
 cask xquartz
+
+tap argon/mas
+
+tap rcmdnk/file
+brew brew-file
+
+tap sanemat/font
+
+# Other Homebrew packages
+brew chromedriver
+
+# Other Cask applications
+cask adobe-air
+cask alfred
+cask android-studio
+cask appcleaner
+cask bartender
+cask bluestacks
+cask cheatsheet
+cask commander-one
+cask couleurs
+cask dash
+cask dotnet-sdk
+cask dupeguru
+cask evernote
+cask firefox
+cask google-backup-and-sync
+cask google-japanese-ime
+cask iterm2
+cask jetbrains-toolbox
+cask karabiner-elements
+cask kindle
+cask libreoffice
+cask macdown
+cask music-manager
+cask parallels
+cask pibakery
+cask scroll-reverser
+cask skype
+cask slic3r
+cask spotify
+cask thunderbird
+cask tunnelblick
+cask unity
+cask visual-studio-code
+cask vlc
+cask wine-stable
+cask xld
 
 # App Store applications
 appstore 824171161 Affinity Designer (1.6.1)
