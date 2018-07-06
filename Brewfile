@@ -57,6 +57,7 @@ brew lzo
 brew mackup
 brew mas
 brew mosh
+brew mtr
 brew nettle
 brew nmap
 brew node
@@ -190,7 +191,7 @@ appstore 824171161 Affinity Designer (1.6.1)
 appstore 868968810 Fusion360 (1.40.7)
 appstore 789656124 Image Vectorizer (1.6)
 appstore 1142151959 JustFocus (1.6.1)
-appstore 562184107 LanScan Pro (5.1.1)
+appstore 562184107 LanScan Pro (5.1.2)
 appstore 539883307 LINE (5.8.0)
 appstore 714196447 MenuBar Stats (2.2.6)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
