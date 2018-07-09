@@ -3,6 +3,7 @@
 
 tap homebrew/core
 brew arp-scan
+brew autoconf
 brew autossh
 brew awscli
 brew bash-completion
@@ -76,6 +77,7 @@ brew pixman
 brew pkg-config
 brew prometheus
 brew protobuf
+brew pyenv
 brew python
 brew python@2
 brew readline
@@ -101,11 +103,12 @@ cask font-source-han-code-jp
 
 tap homebrew/cask
 cask 1password
-cask aja-system-test
-cask android-platform-tools
-cask androidtool
-cask arduino
-cask bettertouchtool
+cask adobe-air
+cask alfred
+cask android-studio
+cask appcleaner
+cask bartender
+cask bluestacks
 cask calibre
 cask clipy
 cask coteditor
@@ -135,8 +138,8 @@ cask tusk
 cask vagrant
 cask vivaldi
 cask vnc-viewer
-cask wireshark
-cask xquartz
+cask wine-stable
+cask xld
 
 tap argon/mas
 
@@ -149,12 +152,13 @@ tap sanemat/font
 brew chromedriver
 
 # Other Cask applications
-cask adobe-air
-cask alfred
-cask android-studio
-cask appcleaner
-cask bartender
-cask bluestacks
+cask CloudMounter
+cask aja-system-test
+cask android-platform-tools
+cask androidtool
+cask arduino
+cask bettertouchtool
+cask boostnote
 cask cheatsheet
 cask commander-one
 cask couleurs
@@ -183,8 +187,9 @@ cask tunnelblick
 cask unity
 cask visual-studio-code
 cask vlc
-cask wine-stable
-cask xld
+cask whale
+cask wireshark
+cask xquartz
 
 # App Store applications
 appstore 824171161 Affinity Designer (1.6.1)
@@ -201,3 +206,4 @@ appstore 1153157709 Speedtest (1.5)
 appstore 704088911 TEPRA SMA3 (1.14)
 appstore 425424353 The Unarchiver (4.0.0)
 appstore 413215883 WinArchiver (2.5.3)
+appstore 692867256 Simplenote (1.3.5)
