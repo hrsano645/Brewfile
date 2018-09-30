@@ -9,9 +9,11 @@ brew awscli
 brew bash-completion
 brew c-ares
 brew cairo
+brew cli53
 brew czmq
 brew dbus
 brew exa
+brew ffmpeg
 brew fish
 brew fontconfig
 brew fontforge
@@ -38,6 +40,7 @@ brew icu4c
 brew iperf3
 brew jpeg
 brew kotlin
+brew lame
 brew lftp
 brew libffi
 brew libgcrypt
@@ -72,6 +75,7 @@ brew pango
 brew pcre
 brew pcre2
 brew peco
+brew picocom
 brew pipenv
 brew pixman
 brew pkg-config
@@ -82,6 +86,8 @@ brew python
 brew python@2
 brew readline
 brew s3cmd
+brew scrcpy
+brew sdl2
 brew speedtest-cli
 brew sqlite
 brew ssh-copy-id
@@ -89,6 +95,9 @@ brew syncthing
 brew tree
 brew wget
 brew wireshark
+brew x264
+brew xonsh
+brew xvid
 brew xz
 brew yarn
 brew zeromq
@@ -105,56 +114,6 @@ tap homebrew/cask
 cask 1password
 cask adobe-air
 cask alfred
-cask android-studio
-cask appcleaner
-cask bartender
-cask bluestacks
-cask calibre
-cask clipy
-cask coteditor
-cask cyberduck
-cask discord
-cask dropbox
-cask etcher
-cask fantastical
-cask fritzing
-cask google-chrome
-cask inkdrop
-cask java
-cask joshaven-winbox
-cask keyboard-cleaner
-cask librecad
-cask libreoffice-language-pack
-cask minecraft
-cask openscad
-cask parallels-toolbox
-cask rescuetime
-cask sharemouse
-cask slack
-cask sourcetree
-cask teamviewer
-cask timemachineeditor
-cask tusk
-cask vagrant
-cask vivaldi
-cask vnc-viewer
-cask wine-stable
-cask xld
-
-tap argon/mas
-
-tap rcmdnk/file
-brew brew-file
-
-tap sanemat/font
-
-# Other Homebrew packages
-brew chromedriver
-
-# Other Cask applications
-cask CloudMounter
-cask aja-system-test
-cask android-platform-tools
 cask androidtool
 cask arduino
 cask bettertouchtool
@@ -185,6 +144,59 @@ cask spotify
 cask thunderbird
 cask tunnelblick
 cask unity
+cask vagrant
+cask vivaldi
+cask vnc-viewer
+cask wine-stable
+cask xld
+
+tap argon/mas
+
+tap caskroom/versions
+
+tap rcmdnk/file
+brew brew-file
+
+tap sanemat/font
+
+# Other Homebrew packages
+brew chromedriver
+
+# Other Cask applications
+cask CloudMounter
+cask aja-system-test
+cask android-studio
+cask appcleaner
+cask bartender
+cask bluestacks
+cask calibre
+cask clipy
+cask coteditor
+cask cyberduck
+cask discord
+cask dropbox
+cask etcher
+cask fantastical
+cask fritzing
+cask google-chrome
+cask inkdrop
+cask java
+cask java8
+cask joshaven-winbox
+cask keyboard-cleaner
+cask librecad
+cask libreoffice-language-pack
+cask minecraft
+cask openscad
+cask parallels-toolbox
+cask rescuetime
+cask sharemouse
+cask slack
+cask sourcetree
+cask teamviewer
+cask timemachineeditor
+cask tusk
+cask unity-android-support-for-editor
 cask visual-studio-code
 cask vlc
 cask whale
@@ -202,8 +214,8 @@ appstore 714196447 MenuBar Stats (2.2.6)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
 appstore 598853070 Quick Camera (1.2)
 appstore 1035516352 ScanSnap Cloud (1.2.10)
+appstore 692867256 Simplenote (1.3.5)
 appstore 1153157709 Speedtest (1.5)
 appstore 704088911 TEPRA SMA3 (1.14)
 appstore 425424353 The Unarchiver (4.0.0)
 appstore 413215883 WinArchiver (2.5.3)
-appstore 692867256 Simplenote (1.3.5)
