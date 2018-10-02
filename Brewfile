@@ -115,6 +115,7 @@ cask alfred
 cask androidtool
 cask arduino
 cask bettertouchtool
+<<<<<<< HEAD
 cask chromedriver
 cask coteditor
 cask cyberduck
@@ -161,6 +162,9 @@ cask aja-system-test
 cask android-studio
 cask appcleaner
 cask bartender
+=======
+cask boostnote
+>>>>>>> 1bda44c7f251d30f1fbce7ff2b218cb1be248cde
 cask cheatsheet
 cask commander-one
 cask couleurs
@@ -187,6 +191,59 @@ cask sourcetree
 cask thunderbird
 cask tunnelblick
 cask unity
+cask vagrant
+cask vivaldi
+cask vnc-viewer
+cask wine-stable
+cask xld
+
+tap argon/mas
+
+tap caskroom/versions
+
+tap rcmdnk/file
+brew brew-file
+
+tap sanemat/font
+
+# Other Homebrew packages
+brew chromedriver
+
+# Other Cask applications
+cask CloudMounter
+cask aja-system-test
+cask android-studio
+cask appcleaner
+cask bartender
+cask bluestacks
+cask calibre
+cask clipy
+cask coteditor
+cask cyberduck
+cask discord
+cask dropbox
+cask etcher
+cask fantastical
+cask fritzing
+cask google-chrome
+cask inkdrop
+cask java
+cask java8
+cask joshaven-winbox
+cask keyboard-cleaner
+cask librecad
+cask libreoffice-language-pack
+cask minecraft
+cask openscad
+cask parallels-toolbox
+cask rescuetime
+cask sharemouse
+cask slack
+cask sourcetree
+cask teamviewer
+cask timemachineeditor
+cask tusk
+cask unity-android-support-for-editor
 cask visual-studio-code
 cask vlc
 cask wine-stable
