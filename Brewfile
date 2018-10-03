@@ -129,7 +129,6 @@ cask iterm2
 cask jetbrains-toolbox
 cask karabiner-elements
 cask kindle
-cask libreoffice
 cask macdown
 cask music-manager
 cask parallels
@@ -180,7 +179,6 @@ cask java8
 cask joshaven-winbox
 cask keyboard-cleaner
 cask librecad
-cask libreoffice-language-pack
 cask minecraft
 cask openscad
 cask parallels-toolbox
