@@ -111,55 +111,65 @@ cask font-source-han-code-jp
 
 tap homebrew/cask
 cask adobe-air
-cask aja-system-test
-cask android-studio
+cask alfred
 cask androidtool
-cask appcleaner
-cask bartender
+cask arduino
 cask bettertouchtool
-cask calibre
 cask chromedriver
-cask commander-one
 cask coteditor
 cask cyberduck
-cask dash
 cask discord
 cask dropbox
-cask dupeguru
 cask etcher
 cask fantastical
-cask firefox
 cask fritzing
 cask google-chrome
-cask google-japanese-ime
 cask iterm2
-cask java
 cask jetbrains-toolbox
+cask karabiner-elements
+cask kindle
+cask music-manager
+cask parallels
+cask pibakery
+cask scroll-reverser
+cask skype
+cask slic3r
+cask spotify
+cask timemachineeditor
+cask tusk
+cask wireshark
+cask xquartz
+cask cheatsheet
+cask commander-one
+cask couleurs
+cask dash
+cask dotnet-sdk
+cask dupeguru
+cask evernote
+cask firefox
+cask google-backup-and-sync
+cask google-japanese-ime
+cask java
+cask java8
 cask joshaven-winbox
 cask keyboard-cleaner
-cask kindle
 cask librecad
-cask libreoffice-language-pack
 cask minecraft
 cask openscad
-cask parallels
 cask parallels-toolbox
 cask rescuetime
-cask scroll-reverser
 cask sharemouse
 cask slack
-cask slic3r
 cask sourcetree
-cask teamviewer
-cask timemachineeditor
+cask thunderbird
 cask tunnelblick
-cask tusk
-cask unity-android-support-for-editor
-cask visual-studio-code
-cask vlc
+cask unity
+cask vagrant
+cask vivaldi
+cask vnc-viewer
 cask wine-stable
-cask wireshark
 cask xld
+
 
 tap argon/mas
 
@@ -170,61 +180,57 @@ brew brew-file
 
 tap sanemat/font
 
+# # Other Homebrew packages
+# brew chromedriver
+
+
 # Other Cask applications
-cask CloudMounter
 cask CloudMounter
 cask Unity
 cask aja-system-test
-cask alfred
 cask android-studio
 cask appcleaner
-cask arduino
+cask bartender
+
+# Other Cask applications
+cask CloudMounter
+cask aja-system-test
+cask android-studio
+cask appcleaner
 cask bartender
 cask bluestacks
-cask cheatsheet
+cask calibre
 cask clipy
 cask coteditor
-cask couleurs
 cask cyberduck
 cask discord
-cask dotnet-sdk
 cask dropbox
 cask etcher
-cask evernote
 cask fantastical
 cask fritzing
-cask google-backup-and-sync
 cask google-chrome
 cask inkdrop
 cask java
 cask java8
-cask java8
 cask joshaven-winbox
-cask karabiner-elements
 cask keyboard-cleaner
 cask librecad
-cask libreoffice
+cask libreoffice-language-pack
 cask minecraft
-cask music-manager
 cask openscad
 cask parallels-toolbox
-cask pibakery
 cask rescuetime
 cask sharemouse
-cask skype
 cask slack
 cask sourcetree
-cask spotify
-cask thunderbird
+cask teamviewer
 cask timemachineeditor
 cask tusk
-cask unity
-cask vagrant
-cask vivaldi
-cask vnc-viewer
+cask unity-android-support-for-editor
+cask visual-studio-code
+cask vlc
 cask wine-stable
 cask xld
-cask xquartz
 
 # App Store applications
 appstore 824171161 Affinity Designer (1.6.1)
