@@ -17,6 +17,7 @@ brew dfu-programmer
 brew exa
 brew ffmpeg
 brew fish
+brew fltk
 brew fontconfig
 brew fontforge
 brew fping
@@ -44,6 +45,7 @@ brew isl
 brew jansson
 brew jemalloc
 brew jpeg
+brew jpeg-turbo
 brew kotlin
 brew lame
 brew lftp
@@ -115,6 +117,7 @@ brew speedtest-cli
 brew sqlite
 brew ssh-copy-id
 brew syncthing
+brew tcl-tk
 brew theora
 brew tree
 brew wget
@@ -126,8 +129,6 @@ brew xvid
 brew xz
 brew yarn
 brew zeromq
-
-tap homebrew/boneyard
 
 tap homebrew/cask-drivers
 cask logitech-unifying
@@ -157,14 +158,15 @@ cask evernote
 cask firefox
 cask google-backup-and-sync
 cask google-japanese-ime
-cask iterm2
-cask jetbrains-toolbox
-cask karabiner-elements
-cask kindle
-cask libreoffice
-cask macdown
-cask minecraft
-cask openscad
+cask inkdrop
+cask java
+cask joshaven-winbox
+cask keyboard-cleaner
+cask librecad
+cask libreoffice-language-pack
+cask mendeley
+cask music-manager
+cask parallels
 cask parallels-toolbox
 cask rescuetime
 cask sharemouse
@@ -210,15 +212,16 @@ cask etcher
 cask fantastical
 cask fritzing
 cask google-chrome
-cask inkdrop
-cask java
-cask joshaven-winbox
-cask keyboard-cleaner
-cask librecad
-cask libreoffice-language-pack
-cask mendeley
-cask music-manager
-cask parallels
+cask iina
+cask iterm2
+cask jetbrains-toolbox
+cask karabiner-elements
+cask kindle
+cask libreoffice
+cask macdown
+cask minecraft
+cask openscad
+cask parallels-access
 cask pibakery
 cask scroll-reverser
 cask skype
