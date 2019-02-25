@@ -2,6 +2,7 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew aom
 brew arp-scan
 brew autoconf
 brew autossh
@@ -17,16 +18,19 @@ brew dfu-programmer
 brew exa
 brew ffmpeg
 brew fish
+brew flac
 brew fltk
 brew fontconfig
 brew fontforge
 brew fping
 brew freetype
+brew frei0r
 brew fribidi
 brew gdbm
 brew geckodriver
 brew geoip
 brew gettext
+brew giflib
 brew git
 brew glib
 brew gmp
@@ -48,7 +52,10 @@ brew jpeg
 brew jpeg-turbo
 brew kotlin
 brew lame
+brew leptonica
 brew lftp
+brew libass
+brew libbluray
 brew libelf
 brew libev
 brew libevent
@@ -64,17 +71,23 @@ brew libmpc
 brew libogg
 brew libpcap
 brew libpng
+brew libsamplerate
 brew libsmi
+brew libsndfile
 brew libsodium
+brew libsoxr
+brew libspiro
 brew libssh
 brew libtasn1
 brew libtiff
 brew libtool
+brew libuninameslist
 brew libunistring
 brew libusb
 brew libusb-compat
 brew libvorbis
 brew libvpx
+brew little-cms2
 brew lua
 brew lua@5.1
 brew lz4
@@ -89,6 +102,8 @@ brew nghttp2
 brew nmap
 brew node
 brew noti
+brew opencore-amr
+brew openjpeg
 brew openssl
 brew openssl@1.1
 brew openvpn
@@ -109,17 +124,23 @@ brew pyenv
 brew python
 brew python@2
 brew readline
+brew rtmpdump
+brew rubberband
 brew s3cmd
 brew scrcpy
 brew sdl2
 brew snappy
 brew speedtest-cli
+brew speex
 brew sqlite
 brew ssh-copy-id
 brew syncthing
 brew tcl-tk
+brew tesseract
 brew theora
 brew tree
+brew unbound
+brew webp
 brew wget
 brew wireshark
 brew x264
@@ -237,26 +258,26 @@ cask wireshark
 cask xquartz
 
 # App Store applications
-appstore 1333542190 1Password 7 (7.2.2)
+appstore 1333542190 1Password 7 (7.2.4)
 appstore 824171161 Affinity Designer (1.6.1)
 appstore 659901392 Coffitivity (1.0.1)
-appstore 868968810 Fusion360 (1.44.4)
+appstore 868968810 Fusion360 (1.46.5)
 appstore 789656124 Image Vectorizer (1.6)
 appstore 1142151959 JustFocus (1.6.1)
 appstore 409183694 Keynote (8.3)
 appstore 562184107 LanScan Pro (5.1.2)
-appstore 539883307 LINE (5.11.2)
+appstore 539883307 LINE (5.13.1)
 appstore 714196447 MenuBar Stats (2.2.6)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 409203825 Numbers (5.3)
 appstore 409201541 Pages (7.3)
-appstore 598853070 Quick Camera (1.2)
+appstore 598853070 Quick Camera (1.3.3)
 appstore 1035516352 ScanSnap Cloud (1.2.10)
-appstore 897118787 Shazam (2.1)
-appstore 692867256 Simplenote (1.3.9)
+appstore 897118787 Shazam (2.2.0)
+appstore 692867256 Simplenote (1.4.1)
 appstore 1153157709 Speedtest (1.5)
 appstore 704088911 TEPRA SMA3 (1.14)
-appstore 425424353 The Unarchiver (4.0.0)
+appstore 425424353 The Unarchiver (4.1.0)
 appstore 1278508951 Trello (2.10.8)
 appstore 413215883 WinArchiver (2.5.3)
 appstore 497799835 Xcode (10.1)
