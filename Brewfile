@@ -5,6 +5,7 @@ tap homebrew/core
 brew aom
 brew arp-scan
 brew autoconf
+brew automake
 brew autossh
 brew avrdude
 brew awscli
@@ -117,6 +118,7 @@ brew peco
 brew picocom
 brew pipenv
 brew pixman
+brew pkcs11-helper
 brew pkg-config
 brew prometheus
 brew protobuf
@@ -160,32 +162,35 @@ tap homebrew/cask-fonts
 cask font-source-han-code-jp
 
 tap homebrew/cask-versions
-cask java8
 
 tap homebrew/cask
-cask alfred
-cask androidtool
-cask arduino
-cask bettertouchtool
-cask calibre
-cask chromedriver
-cask cloudmounter
-cask coteditor
-cask cyberduck
-cask discord
-cask dropbox
+cask aja-system-test
+cask android-studio
+cask appcleaner
+cask bartender
+cask bluestacks
+cask cheatsheet
+cask clipy
+cask commander-one
+cask couleurs
+cask dash
+cask dotnet-sdk
+cask dupeguru
 cask evernote
 cask firefox
-cask fritzing
-cask google-chrome
-cask iina
-cask iterm2
+cask google-backup-and-sync
+cask google-japanese-ime
+cask inkdrop
+cask java
 cask jetbrains-toolbox
 cask karabiner-elements
 cask kindle
 cask libreoffice
+cask macdown
+cask minecraft
 cask openscad
 cask parallels-access
+cask pibakery
 cask scroll-reverser
 cask skype
 cask slic3r
@@ -214,21 +219,24 @@ brew brew-file
 tap sanemat/font
 
 # Other Cask applications
-cask aja-system-test
-cask android-studio
-cask appcleaner
-cask bartender
-cask cheatsheet
-cask commander-one
-cask couleurs
-cask dash
-cask dotnet-sdk
-cask dupeguru
+cask alfred
+cask androidtool
+cask arduino
+cask bettertouchtool
+cask calibre
+cask chromedriver
+cask cloudmounter
+cask coteditor
+cask cyberduck
+cask discord
+cask dropbox
 cask etcher
 cask fantastical
-cask google-backup-and-sync
-cask google-japanese-ime
-cask java
+cask fritzing
+cask google-chrome
+cask iina
+cask iterm2
+cask java8
 cask joshaven-winbox
 cask keyboard-cleaner
 cask librecad
@@ -237,6 +245,7 @@ cask mendeley
 cask music-manager
 cask parallels
 cask parallels-toolbox
+cask rescuetime
 cask sharemouse
 cask slack
 cask sourcetree
@@ -250,26 +259,27 @@ cask wine-stable
 cask xld
 
 # App Store applications
-appstore 1333542190 1Password 7 (7.2.4)
-appstore 824171161 Affinity Designer (1.6.1)
-appstore 659901392 Coffitivity (1.0.1)
-appstore 868968810 Fusion360 (1.46.5)
-appstore 789656124 Image Vectorizer (1.6)
-appstore 1142151959 JustFocus (1.6.1)
-appstore 409183694 Keynote (8.3)
-appstore 562184107 LanScan Pro (5.1.2)
-appstore 539883307 LINE (5.13.1)
-appstore 714196447 MenuBar Stats (2.2.6)
-appstore 715768417 Microsoft Remote Desktop (8.0.30030)
-appstore 409203825 Numbers (5.3)
-appstore 409201541 Pages (7.3)
-appstore 598853070 Quick Camera (1.3.3)
-appstore 1035516352 ScanSnap Cloud (1.2.10)
-appstore 897118787 Shazam (2.2.0)
-appstore 692867256 Simplenote (1.4.1)
-appstore 1153157709 Speedtest (1.5)
-appstore 704088911 TEPRA SMA3 (1.14)
-appstore 425424353 The Unarchiver (4.1.0)
-appstore 1278508951 Trello (2.10.8)
-appstore 413215883 WinArchiver (2.5.3)
-appstore 497799835 Xcode (10.1)
+appstore 413215883 bz.tida.MacWinZipper (2.5.3)
+appstore 1333542190 com.agilebits.onepassword7 (7.2.5)
+appstore 497799835 com.apple.dt.Xcode (10.2)
+appstore 409183694 com.apple.iWork.Keynote (9.0)
+appstore 409203825 com.apple.iWork.Numbers (6.0)
+appstore 409201541 com.apple.iWork.Pages (8.0)
+appstore 1278508951 com.atlassian.trello (2.10.12)
+appstore 868968810 com.autodesk.mas.fusion360 (1.47.3)
+appstore 692867256 com.automattic.SimplenoteMac (1.4.2)
+appstore 659901392 com.coffitivity.menubar (1.0.1)
+appstore 714196447 com.fabriceleyne.menubarstats (2.2.6)
+appstore 1035516352 com.fujitsu.pfu.ScanSnapCloud (1.2.10)
+appstore 562184107 com.iwaxx.LanScan-Pro (5.1.2)
+appstore 715768417 com.microsoft.rdc.mac (8.0.30030)
+appstore 789656124 com.midwinter-dg.Image-Vectorizer (1.6)
+appstore 1032755628 com.nektony.Duplicates-Finder (5.6)
+appstore 1153157709 com.ookla.speedtest-macos (1.5)
+appstore 824171161 com.seriflabs.affinitydesigner (1.6.1)
+appstore 897118787 com.shazam.mac.Shazam (2.3.0)
+appstore 598853070 com.simonguest.QCamera (1.3.3)
+appstore 425424353 cx.c3.theunarchiver (4.1.0)
+appstore 704088911 jp.co.kingjim.SMA3 (1.14)
+appstore 539883307 jp.naver.line.mac (5.15.0)
+appstore 1142151959 me.justinyan.justfocus (1.6.4)
