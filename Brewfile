@@ -163,7 +163,6 @@ tap homebrew/cask-versions
 cask java8
 
 tap homebrew/cask
-cask adobe-air
 cask alfred
 cask androidtool
 cask arduino
@@ -185,11 +184,8 @@ cask jetbrains-toolbox
 cask karabiner-elements
 cask kindle
 cask libreoffice
-cask macdown
-cask minecraft
 cask openscad
 cask parallels-access
-cask pibakery
 cask scroll-reverser
 cask skype
 cask slic3r
@@ -230,7 +226,6 @@ cask dotnet-sdk
 cask dupeguru
 cask etcher
 cask fantastical
-cask freecad
 cask google-backup-and-sync
 cask google-japanese-ime
 cask java
