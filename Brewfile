@@ -177,60 +177,6 @@ cask discord
 cask dropbox
 cask evernote
 cask firefox
-cask google-backup-and-sync
-cask google-japanese-ime
-cask inkdrop
-cask java
-cask joshaven-winbox
-cask keyboard-cleaner
-cask librecad
-cask libreoffice-language-pack
-cask mendeley
-cask music-manager
-cask parallels
-cask parallels-toolbox
-cask rescuetime
-cask sharemouse
-cask slack
-cask sourcetree
-cask teamviewer
-cask timemachineeditor
-cask tusk
-cask unity
-cask visual-studio-code
-cask vlc
-cask wine-stable
-cask xld
-
-tap argon/mas
-
-tap osx-cross/avr
-brew avr-binutils
-brew avr-gcc@7
-
-tap px4/px4
-brew gcc-arm-none-eabi
-
-tap rcmdnk/file
-brew brew-file
-
-tap sanemat/font
-
-# Other Cask applications
-cask aja-system-test
-cask android-studio
-cask appcleaner
-cask bartender
-cask bluestacks
-cask cheatsheet
-cask clipy
-cask commander-one
-cask couleurs
-cask dash
-cask dotnet-sdk
-cask dupeguru
-cask etcher
-cask fantastical
 cask fritzing
 cask google-chrome
 cask iina
@@ -256,6 +202,57 @@ cask vivaldi
 cask vnc-viewer
 cask wireshark
 cask xquartz
+
+tap argon/mas
+
+tap osx-cross/avr
+brew avr-binutils
+brew avr-gcc@7
+
+tap px4/px4
+brew gcc-arm-none-eabi
+
+tap rcmdnk/file
+brew brew-file
+
+tap sanemat/font
+
+# Other Cask applications
+cask aja-system-test
+cask android-studio
+cask appcleaner
+cask bartender
+cask cheatsheet
+cask commander-one
+cask couleurs
+cask dash
+cask dotnet-sdk
+cask dupeguru
+cask etcher
+cask fantastical
+cask freecad
+cask google-backup-and-sync
+cask google-japanese-ime
+cask java
+cask joshaven-winbox
+cask keyboard-cleaner
+cask librecad
+cask libreoffice-language-pack
+cask mendeley
+cask music-manager
+cask parallels
+cask parallels-toolbox
+cask sharemouse
+cask slack
+cask sourcetree
+cask teamviewer
+cask timemachineeditor
+cask tusk
+cask unity
+cask visual-studio-code
+cask vlc
+cask wine-stable
+cask xld
 
 # App Store applications
 appstore 1333542190 1Password 7 (7.2.4)
