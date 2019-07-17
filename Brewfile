@@ -165,38 +165,39 @@ tap homebrew/cask-versions
 
 tap homebrew/cask
 cask aja-system-test
-cask android-studio
-cask appcleaner
-cask bartender
-cask cheatsheet
-cask cloudmounter
-cask coteditor
+cask androidtool
+cask arduino
+cask bettertouchtool
+cask chromedriver
+cask commander-one
 cask cyberduck
 cask discord
 cask dropbox
 cask evernote
 cask firefox
 cask google-backup-and-sync
-cask google-japanese-ime
-cask iterm2
+cask google-cloud-sdk
+cask iina
+cask java
 cask jetbrains-toolbox
 cask keyboard-cleaner
 cask librecad
 cask libreoffice-language-pack
-cask mendeley
-cask music-manager
-cask parallels
-cask parallels-toolbox
-cask rescuetime
-cask sharemouse
-cask slack
-cask sourcetree
-cask teamviewer
-cask timemachineeditor
+cask minecraft
+cask openscad
+cask parallels-access
+cask pibakery
+cask scroll-reverser
+cask skype
+cask slic3r
+cask spotify
+cask thunderbird
+cask tunnelblick
 cask unity
 cask visual-studio-code
-cask wine-stable
-cask xld
+cask vnc-viewer
+cask wireshark
+cask xquartz
 
 tap argon/mas
 
@@ -212,13 +213,16 @@ brew brew-file
 
 tap sanemat/font
 
+# Other Homebrew packages
+brew kubectl
+
 # Other Cask applications
 cask alfred
-cask androidtool
-cask arduino
-cask bettertouchtool
-cask chromedriver
-cask commander-one
+cask appcleaner
+cask bartender
+cask cheatsheet
+cask cloudmounter
+cask coteditor
 cask couleurs
 cask dash
 cask dotnet-sdk
@@ -227,28 +231,27 @@ cask etcher
 cask fantastical
 cask fritzing
 cask google-chrome
-cask iina
-cask java
+cask google-japanese-ime
+cask iterm2
 cask java8
 cask karabiner-elements
 cask kindle
 cask libreoffice
-cask minecraft
-cask openscad
-cask parallels-access
-cask pibakery
-cask scroll-reverser
-cask skype
-cask slic3r
-cask spotify
-cask thunderbird
-cask tunnelblick
+cask mendeley
+cask music-manager
+cask parallels
+cask parallels-toolbox
+cask rescuetime
+cask sharemouse
+cask slack
+cask sourcetree
+cask teamviewer
+cask timemachineeditor
 cask ultimaker-cura
 cask vagrant
 cask vivaldi
-cask vnc-viewer
-cask wireshark
-cask xquartz
+cask wine-stable
+cask xld
 
 # App Store applications
 appstore 413215883 bz.tida.MacWinZipper (2.5.3)
