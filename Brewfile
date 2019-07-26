@@ -53,7 +53,7 @@ brew jpeg
 brew jpeg-turbo
 brew kotlin
 brew lame
-ibrew leptonica
+brew leptonica
 brew lftp
 brew libass
 brew libbluray
@@ -147,7 +147,7 @@ brew wget
 brew wireshark
 brew x264
 brew x265
-brew xonsh
+# brew xonsh
 brew xvid
 brew xz
 brew yarn
@@ -211,7 +211,7 @@ tap argon/mas
 tap rcmdnk/file
 brew brew-file
 
-tap sanemat/font
+# tap sanemat/font
 
 # Other Homebrew packages
 brew kubectl
