@@ -154,7 +154,7 @@ brew yarn
 brew zeromq
 
 tap homebrew/cask-drivers
-cask logitech-unifying
+# cask logitech-unifying
 cask netgear-switch-discovery-tool
 # cask qmk-toolbox
 
@@ -227,16 +227,16 @@ cask couleurs
 cask dash
 # cask dotnet-sdk
 cask dupeguru
-cask etcher
+cask balenaetcher
 cask fantastical
 cask fritzing
 cask google-chrome
 cask google-japanese-ime
 cask iterm2
-cask java8
+# cask java8
 cask karabiner-elements
 cask kindle
-cask libreoffice
+# cask libreoffice
 # cask mendeley
 # cask music-manager
 cask parallels
@@ -245,7 +245,7 @@ cask parallels-toolbox
 # cask sharemouse
 cask slack
 cask sourcetree
-cask teamviewer
+# cask teamviewer
 cask timemachineeditor
 # cask ultimaker-cura
 # cask vagrant
