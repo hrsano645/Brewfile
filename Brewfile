@@ -53,7 +53,7 @@ brew jpeg
 brew jpeg-turbo
 brew kotlin
 brew lame
-brew leptonica
+ibrew leptonica
 brew lftp
 brew libass
 brew libbluray
@@ -93,7 +93,7 @@ brew lua
 brew lua@5.1
 brew lz4
 brew lzo
-brew mackup
+# brew mackup
 brew mas
 brew mosh
 brew mpfr
@@ -124,7 +124,7 @@ brew prometheus
 brew protobuf
 brew pyenv
 brew python
-brew python@2
+# brew python@2
 brew readline
 brew rtmpdump
 brew rubberband
@@ -132,7 +132,7 @@ brew s3cmd
 brew scrcpy
 brew sdl2
 brew snappy
-brew speedtest-cli
+# brew speedtest-cli
 brew speex
 brew sqlite
 brew ssh-copy-id
@@ -156,122 +156,125 @@ brew zeromq
 tap homebrew/cask-drivers
 cask logitech-unifying
 cask netgear-switch-discovery-tool
-cask qmk-toolbox
+# cask qmk-toolbox
 
 tap homebrew/cask-fonts
 cask font-source-han-code-jp
 
-tap homebrew/cask-versions
+# tap homebrew/cask-versions
 
 tap homebrew/cask
 cask aja-system-test
-cask android-studio
-cask appcleaner
-cask bartender
-cask cheatsheet
-cask cloudmounter
-cask coteditor
-cask cyberduck
+cask androidtool
+cask arduino
+cask bettertouchtool
+# cask chromedriver
+cask commander-one
+# cask cyberduck
 cask discord
 cask dropbox
-cask evernote
-cask firefox
+# cask evernote
+# cask firefox
 cask google-backup-and-sync
-cask google-japanese-ime
-cask iterm2
+cask google-cloud-sdk
+cask iina
+cask java
 cask jetbrains-toolbox
 cask keyboard-cleaner
-cask librecad
+# cask librecad
 cask libreoffice-language-pack
-cask mendeley
-cask music-manager
-cask parallels
-cask parallels-toolbox
-cask rescuetime
-cask sharemouse
-cask slack
-cask sourcetree
-cask teamviewer
-cask timemachineeditor
-cask unity
+cask minecraft
+cask openscad
+cask parallels-access
+# cask pibakery
+cask scroll-reverser
+cask skype
+cask slic3r
+# cask spotify
+# cask thunderbird
+cask tunnelblick
+# cask unity
 cask visual-studio-code
-cask wine-stable
-cask xld
+cask vnc-viewer
+cask wireshark
+cask xquartz
 
 tap argon/mas
 
-tap osx-cross/avr
-brew avr-binutils
-brew avr-gcc@7
+# tap osx-cross/avr
+# brew avr-binutils
+# brew avr-gcc@7
 
-tap px4/px4
-brew gcc-arm-none-eabi
+# tap px4/px4
+# brew gcc-arm-none-eabi
 
 tap rcmdnk/file
 brew brew-file
 
 tap sanemat/font
 
+# Other Homebrew packages
+brew kubectl
+
 # Other Cask applications
 cask alfred
-cask androidtool
-cask arduino
-cask bettertouchtool
-cask chromedriver
-cask commander-one
+cask appcleaner
+cask bartender
+# cask cheatsheet
+# cask cloudmounter
+cask coteditor
 cask couleurs
 cask dash
-cask dotnet-sdk
+# cask dotnet-sdk
 cask dupeguru
 cask etcher
 cask fantastical
 cask fritzing
 cask google-chrome
-cask iina
-cask java
+cask google-japanese-ime
+cask iterm2
 cask java8
 cask karabiner-elements
 cask kindle
 cask libreoffice
-cask minecraft
-cask openscad
-cask parallels-access
-cask pibakery
-cask scroll-reverser
-cask skype
-cask slic3r
-cask spotify
-cask thunderbird
-cask tunnelblick
-cask ultimaker-cura
-cask vagrant
+# cask mendeley
+# cask music-manager
+cask parallels
+cask parallels-toolbox
+# cask rescuetime
+# cask sharemouse
+cask slack
+cask sourcetree
+cask teamviewer
+cask timemachineeditor
+# cask ultimaker-cura
+# cask vagrant
 cask vivaldi
-cask vnc-viewer
-cask wireshark
-cask xquartz
+cask wine-stable
+# cask xld
 
 # App Store applications
 appstore 413215883 bz.tida.MacWinZipper (2.5.3)
 appstore 1333542190 com.agilebits.onepassword7 (7.2.5)
-appstore 497799835 com.apple.dt.Xcode (10.2)
-appstore 409183694 com.apple.iWork.Keynote (9.0)
-appstore 409203825 com.apple.iWork.Numbers (6.0)
-appstore 409201541 com.apple.iWork.Pages (8.0)
+# appstore 497799835 com.apple.dt.Xcode (10.2)
+# appstore 409183694 com.apple.iWork.Keynote (9.0)
+# appstore 409203825 com.apple.iWork.Numbers (6.0)
+# appstore 409201541 com.apple.iWork.Pages (8.0)
 appstore 1278508951 com.atlassian.trello (2.10.12)
 appstore 868968810 com.autodesk.mas.fusion360 (1.47.3)
 appstore 692867256 com.automattic.SimplenoteMac (1.4.2)
-appstore 659901392 com.coffitivity.menubar (1.0.1)
-appstore 714196447 com.fabriceleyne.menubarstats (2.2.6)
-appstore 1035516352 com.fujitsu.pfu.ScanSnapCloud (1.2.10)
+# appstore 659901392 com.coffitivity.menubar (1.0.1)
+# appstore 714196447 com.fabriceleyne.menubarstats (2.2.6)
+# appstore 1035516352 com.fujitsu.pfu.ScanSnapCloud (1.2.10)
 appstore 562184107 com.iwaxx.LanScan-Pro (5.1.2)
 appstore 715768417 com.microsoft.rdc.mac (8.0.30030)
-appstore 789656124 com.midwinter-dg.Image-Vectorizer (1.6)
+# appstore 789656124 com.midwinter-dg.Image-Vectorizer (1.6)
 appstore 1032755628 com.nektony.Duplicates-Finder (5.6)
 appstore 1153157709 com.ookla.speedtest-macos (1.5)
 appstore 824171161 com.seriflabs.affinitydesigner (1.6.1)
-appstore 897118787 com.shazam.mac.Shazam (2.3.0)
+# appstore 897118787 com.shazam.mac.Shazam (2.3.0)
 appstore 598853070 com.simonguest.QCamera (1.3.3)
 appstore 425424353 cx.c3.theunarchiver (4.1.0)
 appstore 704088911 jp.co.kingjim.SMA3 (1.14)
 appstore 539883307 jp.naver.line.mac (5.15.0)
-appstore 1142151959 me.justinyan.justfocus (1.6.4)
+# appstore 1142151959 me.justinyan.justfocus (1.6.4)
