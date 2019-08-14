@@ -52,6 +52,7 @@ brew jemalloc
 brew jpeg
 brew jpeg-turbo
 brew kotlin
+brew kubernetes-cli
 brew lame
 brew leptonica
 brew lftp
@@ -166,27 +167,26 @@ cask dropbox
 cask fantastical
 cask google-backup-and-sync
 cask google-cloud-sdk
-cask iina
-cask java
-cask karabiner-elements
-cask kindle
+cask google-japanese-ime
+cask iterm2
+cask jetbrains-toolbox
+cask keyboard-cleaner
+cask libreoffice
 cask minecraft
 cask parallels
 cask parallels-toolbox
-cask skype
-cask slic3r
-cask timemachineeditor
-cask visual-studio-code
-cask vnc-viewer
-cask wireshark
+cask sharemouse
+cask slack
+cask sourcetree
+cask tunnelblick
+cask vivaldi
+cask wine-stable
+cask xquartz
 
 tap argon/mas
 
 tap rcmdnk/file
 brew brew-file
-
-# Other Homebrew packages
-brew kubectl
 
 # Other Cask applications
 cask androidtool
@@ -198,33 +198,34 @@ cask discord
 cask dupeguru
 cask fritzing
 cask google-chrome
-cask google-japanese-ime
-cask iterm2
-cask jetbrains-toolbox
-cask keyboard-cleaner
+cask google-drive-file-stream
+cask iina
+cask java
+cask karabiner-elements
+cask kindle
 cask libreoffice-language-pack
 cask openscad
 cask parallels-access
 cask scroll-reverser
-cask slack
-cask sourcetree
-cask tunnelblick
-cask vivaldi
-cask wine-stable
-cask xquartz
+cask skype
+cask slic3r
+cask timemachineeditor
+cask visual-studio-code
+cask vnc-viewer
+cask wireshark
 
 # App Store applications
-appstore 413215883 bz.tida.MacWinZipper (2.5.3)
-appstore 1333542190 com.agilebits.onepassword7 (7.2.5)
-appstore 1278508951 com.atlassian.trello (2.10.12)
-appstore 868968810 com.autodesk.mas.fusion360 (1.47.3)
-appstore 692867256 com.automattic.SimplenoteMac (1.4.2)
-appstore 562184107 com.iwaxx.LanScan-Pro (5.1.2)
-appstore 715768417 com.microsoft.rdc.mac (8.0.30030)
-appstore 1032755628 com.nektony.Duplicates-Finder (5.6)
-appstore 1153157709 com.ookla.speedtest-macos (1.5)
-appstore 824171161 com.seriflabs.affinitydesigner (1.6.1)
-appstore 598853070 com.simonguest.QCamera (1.3.3)
-appstore 425424353 cx.c3.theunarchiver (4.1.0)
-appstore 704088911 jp.co.kingjim.SMA3 (1.14)
-appstore 539883307 jp.naver.line.mac (5.15.0)
+appstore 1333542190 1Password 7 (7.3.1)
+appstore 824171161 Affinity Designer (1.7.1)
+appstore 1032755628 Duplicate File Finder (6.0)
+appstore 868968810 Fusion 360 (1.48.4)
+appstore 562184107 LanScan Pro (5.1.2)
+appstore 539883307 LINE (5.17.2)
+appstore 715768417 Microsoft Remote Desktop (8.0.30030)
+appstore 598853070 Quick Camera (1.3.3)
+appstore 692867256 Simplenote (1.5.0)
+appstore 1153157709 Speedtest (1.6)
+appstore 704088911 TEPRA SMA3 (1.14)
+appstore 425424353 The Unarchiver (4.1.0)
+appstore 1278508951 Trello (2.10.14)
+appstore 413215883 WinArchiver (2.5.3)
