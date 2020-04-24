@@ -2,12 +2,14 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew awscli
 brew gdbm
 brew mas
 brew openapi-generator
 brew openjdk
 brew openssl@1.1
 brew python
+brew python@3.8
 brew readline
 brew sqlite
 brew xz
@@ -19,6 +21,7 @@ cask font-source-han-code-jp
 tap homebrew/cask
 cask alfred
 cask arduino
+cask balenaetcher
 cask bettertouchtool
 cask github
 cask google-chrome
@@ -27,10 +30,12 @@ cask google-japanese-ime
 cask hyper
 cask karabiner-elements
 cask parallels-toolbox
+cask scroll-reverser
 cask sharemouse
 cask station
 cask timemachineeditor
 cask tunnelblick
+cask ultimaker-cura
 cask visual-studio-code
 cask vivaldi
 
