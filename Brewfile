@@ -19,6 +19,9 @@ brew sqlite
 brew xz
 brew zsh-completions
 
+tap homebrew/cask-drivers
+cask logitech-options
+
 tap homebrew/cask-fonts
 cask font-source-han-code-jp
 
@@ -58,7 +61,7 @@ appstore 562184107 LanScan Pro (5.1.2)
 appstore 539883307 LINE (6.0.3)
 appstore 462058435 Microsoft Excel (16.37)
 appstore 784801555 Microsoft OneNote (16.37)
-appstore 985367838 Microsoft Outlook (16.36.1)
+appstore 985367838 Microsoft Outlook (16.37)
 appstore 462062816 Microsoft PowerPoint (16.37)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 462054704 Microsoft Word (16.37)
