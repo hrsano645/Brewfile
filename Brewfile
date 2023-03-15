@@ -133,6 +133,17 @@ tap 'homebrew/bundle'
 tap 'homebrew/services'
 
 tap 'rcmdnk/file'
+brew 'brew-file'
 
 # App Store applications
+mas 'Affinity Designer (1.10.6)', id: 824171161
+mas 'DaVinci Resolve (18.1.4)', id: 571213070
 mas 'Diffusers (1.1)', id: 1666309574
+mas 'GoodNotes (5.9.91)', id: 1444383602
+mas 'LINE (7.15.0)', id: 539883307
+mas 'Microsoft Excel (16.70)', id: 462058435
+mas 'Microsoft PowerPoint (16.70)', id: 462062816
+mas 'Microsoft Word (16.70)', id: 462054704
+mas 'OneDrive (23.038.0219)', id: 823766827
+mas 'Slack (4.29.149)', id: 803453959
+mas 'Tailscale (1.36.2)', id: 1475387142
