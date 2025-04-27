@@ -14,6 +14,7 @@ brew 'cffi'
 brew 'cjson'
 brew 'cryptography'
 brew 'dav1d'
+brew 'expat'
 brew 'ffmpeg'
 brew 'firebase-cli'
 brew 'flac'
@@ -35,6 +36,8 @@ brew 'graphite2'
 brew 'harfbuzz'
 brew 'highway'
 brew 'httping'
+brew 'icu4c@76'
+brew 'icu4c@77'
 brew 'imagemagick'
 brew 'imath'
 brew 'jasper'
@@ -107,6 +110,7 @@ brew 'pixman'
 brew 'postgresql@16'
 brew 'pycparser'
 brew 'python-packaging'
+brew 'python@3.10'
 brew 'python@3.11'
 brew 'python@3.12'
 brew 'python@3.13'
@@ -145,10 +149,13 @@ cask 'adobe-acrobat-reader'
 cask 'android-file-transfer'
 cask 'balenaetcher'
 cask 'bambu-studio'
+cask 'bartender'
 cask 'beeper'
 cask 'bettertouchtool'
 cask 'cad-assistant'
+cask 'chatgpt'
 cask 'creality-print'
+cask 'dbeaver-community'
 cask 'devtoys'
 cask 'discord'
 cask 'docker'
@@ -156,6 +163,7 @@ cask 'font-biz-udgothic'
 cask 'font-plemol-jp'
 cask 'font-plemol-jp-hs'
 cask 'font-plemol-jp-nf'
+cask 'freecad'
 cask 'ghostty'
 cask 'google-chrome'
 cask 'google-cloud-sdk'
@@ -165,8 +173,11 @@ cask 'iterm2'
 cask 'jordanbaird-ice'
 cask 'karabiner-elements'
 cask 'librecad'
+cask 'localsend'
 cask 'miniforge'
+cask 'mu-editor'
 cask 'obs'
+cask 'omnidisksweeper'
 cask 'orcaslicer'
 cask 'raspberry-pi-imager'
 cask 'raycast'
@@ -177,11 +188,8 @@ cask 'vivaldi'
 cask 'vlc'
 cask 'zoom'
 
-tap 'homebrew/bundle'
-
-tap 'homebrew/cask-fonts'
-
-tap 'homebrew/services'
+tap 'beutton/brew'
+cask 'wattsec'
 
 tap 'grishka/grishka'
 cask 'neardrop'
@@ -189,17 +197,16 @@ cask 'neardrop'
 tap 'rcmdnk/file'
 brew 'brew-file'
 
-# Other Homebrew packages
-brew 'icu4c'
-
 # Other Cask applications
 cask 'font-plemol-jp-nfj'
 
 # App Store applications
-mas 'Amazon Kindle (7.27.1)', id: 302584613
-mas 'LINE (9.6.1)', id: 539883307
-mas 'Microsoft Excel (16.94)', id: 462058435
-mas 'OneDrive (25.020.0202)', id: 823766827
+mas 'Amazon Kindle (7.30)', id: 302584613
+mas 'LINE (9.8.1)', id: 539883307
+mas 'Microsoft Excel (16.96.1)', id: 462058435
+mas 'OneDrive (25.060.0330)', id: 823766827
 mas 'PicGIF Lite (2.0.9)', id: 844918735
-mas 'Slack (4.42.120)', id: 803453959
-mas 'Tailscale (1.80.2)', id: 1475387142
+mas 'Slack (4.43.52)', id: 803453959
+mas 'Structured (4.1.3)', id: 1499198946
+mas 'Tailscale (1.82.5)', id: 1475387142
+mas 'Trello (2.15.9)', id: 1278508951
