@@ -116,6 +116,7 @@ cask 'arc'
 cask 'balenaetcher'
 cask 'bambu-studio'
 cask 'beeper'
+cask 'blackhole-16ch'
 cask 'cad-assistant'
 cask 'creality-print'
 cask 'discord'
@@ -134,6 +135,8 @@ cask 'librecad'
 cask 'miniforge'
 cask 'notion-calendar'
 cask 'obs'
+cask 'obs-backgroundremoval'
+cask 'obsidian'
 cask 'podman-desktop'
 cask 'raspberry-pi-imager'
 cask 'raycast'
@@ -151,3 +154,5 @@ brew 'brew-file'
 
 # App Store applications
 mas 'Affinity Designer 2 (2.6.2)', id: 1616831348
+mas 'Canva (1.106.0)', id: 897446215
+mas 'Microsoft Excel (16.97)', id: 462058435
