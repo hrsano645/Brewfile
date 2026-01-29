@@ -3,6 +3,7 @@
 
 tap 'homebrew/core'
 brew 'abseil'
+brew 'ada-url'
 brew 'aom'
 brew 'aribb24'
 brew 'brotli'
@@ -17,6 +18,7 @@ brew 'dav1d'
 brew 'ffmpeg'
 brew 'fftw'
 brew 'flac'
+brew 'fmt'
 brew 'fontconfig'
 brew 'freetype'
 brew 'frei0r'
@@ -33,6 +35,7 @@ brew 'gnutls'
 brew 'gping'
 brew 'graphite2'
 brew 'harfbuzz'
+brew 'hdrhistogram_c'
 brew 'highway'
 brew 'htop'
 brew 'httping'
@@ -48,6 +51,7 @@ brew 'jpeg-turbo'
 brew 'jpeg-xl'
 brew 'krb5'
 brew 'lame'
+brew 'lazygit'
 brew 'leptonica'
 brew 'libarchive'
 brew 'libass'
@@ -97,9 +101,11 @@ brew 'libxext'
 brew 'libxrender'
 brew 'libzip'
 brew 'little-cms2'
+brew 'llhttp'
 brew 'lz4'
 brew 'lzo'
 brew 'm4'
+brew 'mas'
 brew 'mbedtls@3'
 brew 'mosh'
 brew 'mpdecimal'
@@ -132,6 +138,7 @@ brew 'python@3.13'
 brew 'python@3.14'
 brew 'rav1e'
 brew 'readline'
+brew 'reattach-to-user-namespace'
 brew 'rubberband'
 brew 's-lang'
 brew 'sdl2'
@@ -215,9 +222,9 @@ tap 'rcmdnk/file'
 brew 'brew-file'
 
 # App Store applications
-mas 'Canva (1.117.1)', id: 897446215
-mas 'LINE (9.13.0)', id: 539883307
-mas 'Microsoft Excel (16.101.1)', id: 462058435
-mas 'Microsoft Word (16.102.3)', id: 462054704
-mas 'Structured (4.2.3)', id: 1499198946
-mas 'Trello (2.15.13)', id: 1278508951
+mas 'Canva (1.119.0)', id: 897446215
+mas 'LINE (9.14.0)', id: 539883307
+mas 'Microsoft Excel (16.104)', id: 462058435
+mas 'Microsoft Word (16.104)', id: 462054704
+mas 'Structured (4.4.0)', id: 1499198946
+mas 'Trello (2.15.15)', id: 1278508951
