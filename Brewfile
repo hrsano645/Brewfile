@@ -215,7 +215,6 @@ tap 'rcmdnk/file'
 brew 'brew-file'
 
 # App Store applications
-mas 'Affinity Designer 2 (2.6.5)', id: 1616831348
 mas 'Canva (1.117.1)', id: 897446215
 mas 'LINE (9.13.0)', id: 539883307
 mas 'Microsoft Excel (16.101.1)', id: 462058435
