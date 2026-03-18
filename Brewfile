@@ -51,6 +51,7 @@ brew 'jpeg-turbo'
 brew 'jpeg-xl'
 brew 'krb5'
 brew 'lame'
+brew 'lazygit'
 brew 'leptonica'
 brew 'libarchive'
 brew 'libass'
@@ -104,6 +105,7 @@ brew 'llhttp'
 brew 'lz4'
 brew 'lzo'
 brew 'm4'
+brew 'mas'
 brew 'mbedtls@3'
 brew 'mosh'
 brew 'mpdecimal'
@@ -136,6 +138,7 @@ brew 'python@3.13'
 brew 'python@3.14'
 brew 'rav1e'
 brew 'readline'
+brew 'reattach-to-user-namespace'
 brew 'rubberband'
 brew 's-lang'
 brew 'sdl2'
@@ -179,8 +182,8 @@ cask 'blackhole-16ch'
 cask 'cad-assistant'
 cask 'creality-print'
 cask 'discord'
-cask 'disk-drill'
 cask 'font-biz-udgothic'
+cask 'font-biz-udpgothic'
 cask 'font-plemol-jp'
 cask 'font-plemol-jp-hs'
 cask 'font-udev-gothic'
@@ -206,7 +209,6 @@ cask 'scroll-reverser'
 cask 'slack'
 cask 'synology-drive'
 cask 'tailscale'
-cask 'tomatobar'
 cask 'visual-studio-code'
 cask 'vivaldi'
 cask 'vlc'
@@ -219,9 +221,9 @@ tap 'rcmdnk/file'
 brew 'brew-file'
 
 # App Store applications
-mas 'Canva (1.119.0)', id: 897446215
+mas 'Canva (1.120.0)', id: 897446215
 mas 'LINE (9.14.0)', id: 539883307
-mas 'Microsoft Excel (16.104)', id: 462058435
-mas 'Microsoft Word (16.104)', id: 462054704
+mas 'Microsoft Excel (16.105.3)', id: 462058435
+mas 'Microsoft Word (16.105.3)', id: 462054704
 mas 'Structured (4.4.0)', id: 1499198946
-mas 'Trello (2.15.15)', id: 1278508951
+mas 'Trello (2.15.18)', id: 1278508951
