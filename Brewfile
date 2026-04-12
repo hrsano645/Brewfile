@@ -227,5 +227,5 @@ mas 'Canva (1.120.0)', id: 897446215
 mas 'LINE (9.14.0)', id: 539883307
 mas 'Microsoft Excel (16.105.3)', id: 462058435
 mas 'Microsoft Word (16.105.3)', id: 462054704
-mas 'Structured (4.4.0)', id: 1499198946
+mas 'Structured (4.4.6)', id: 1499198946
 mas 'Trello (2.15.18)', id: 1278508951
