@@ -172,6 +172,7 @@ cask 'bambu-studio'
 cask 'beeper'
 cask 'blackhole-16ch'
 cask 'cad-assistant'
+cask 'claude'
 cask 'creality-print'
 cask 'discord'
 cask 'font-biz-udgothic'
@@ -220,3 +221,4 @@ mas 'Microsoft Excel (16.105.3)', id: 462058435
 mas 'Microsoft Word (16.105.3)', id: 462054704
 mas 'Structured (4.4.6)', id: 1499198946
 mas 'Trello (2.15.18)', id: 1278508951
+mas 'Usage for Claude (2.6)', id: 6755173244
