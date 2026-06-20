@@ -125,7 +125,6 @@ brew 'pipx'
 brew 'pixman'
 brew 'popt'
 brew 'protobuf'
-brew 'python@3.12'
 brew 'python@3.13'
 brew 'python@3.14'
 brew 'rav1e'
@@ -165,12 +164,10 @@ brew 'zstd'
 tap 'homebrew/cask'
 cask '1password'
 cask 'android-file-transfer'
-cask 'arc'
 cask 'azookey'
 cask 'balenaetcher'
 cask 'bambu-studio'
 cask 'beeper'
-cask 'blackhole-16ch'
 cask 'cad-assistant'
 cask 'claude'
 cask 'creality-print'
@@ -188,13 +185,9 @@ cask 'google-drive'
 cask 'google-japanese-ime'
 cask 'grandperspective'
 cask 'handy'
-cask 'inkscape'
 cask 'karabiner-elements'
-cask 'localsend'
 cask 'miniforge'
-cask 'notion-calendar'
 cask 'obs'
-cask 'obsidian'
 cask 'orcaslicer'
 cask 'podman-desktop'
 cask 'raspberry-pi-imager'
@@ -216,9 +209,7 @@ brew 'brew-file'
 
 # App Store applications
 mas 'Canva (1.120.0)', id: 897446215
-mas 'LINE (9.14.0)', id: 539883307
 mas 'Microsoft Excel (16.105.3)', id: 462058435
 mas 'Microsoft Word (16.105.3)', id: 462054704
-mas 'Structured (4.4.6)', id: 1499198946
 mas 'Trello (2.15.18)', id: 1278508951
 mas 'Usage for Claude (2.6)', id: 6755173244
