@@ -186,10 +186,8 @@ cask 'google-japanese-ime'
 cask 'grandperspective'
 cask 'handy'
 cask 'karabiner-elements'
-cask 'miniforge'
 cask 'obs'
 cask 'orcaslicer'
-cask 'podman-desktop'
 cask 'raspberry-pi-imager'
 cask 'raycast'
 cask 'scroll-reverser'
@@ -208,7 +206,6 @@ tap 'rcmdnk/file'
 brew 'brew-file'
 
 # App Store applications
-mas 'Canva (1.120.0)', id: 897446215
 mas 'Microsoft Excel (16.105.3)', id: 462058435
 mas 'Microsoft Word (16.105.3)', id: 462054704
 mas 'Trello (2.15.18)', id: 1278508951
