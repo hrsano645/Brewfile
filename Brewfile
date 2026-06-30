@@ -168,9 +168,9 @@ brew 'zstd'
 
 tap 'homebrew/cask'
 cask '1password'
+cask 'affinity'
 cask 'android-file-transfer'
 cask 'android-platform-tools'
-cask 'arc'
 cask 'azookey'
 cask 'balenaetcher'
 cask 'bambu-studio'
@@ -194,14 +194,9 @@ cask 'google-japanese-ime'
 cask 'grandperspective'
 cask 'handy'
 cask 'inkscape'
-cask 'karabiner-elements'
-cask 'localsend'
 cask 'miniforge'
-cask 'notion-calendar'
 cask 'obs'
-cask 'obsidian'
 cask 'orcaslicer'
-cask 'podman-desktop'
 cask 'raspberry-pi-imager'
 cask 'raycast'
 cask 'scroll-reverser'
@@ -213,13 +208,10 @@ cask 'vivaldi'
 cask 'vlc'
 cask 'zoom'
 
-tap 'oven-sh/bun'
-
 tap 'rcmdnk/file'
 brew 'brew-file'
 
 # App Store applications
-mas 'Microsoft Word (16.105.3)', id: 462054704
-mas 'Microsoft Excel (16.105.3)', id: 462058435
-mas 'Trello (2.15.18)', id: 1278508951
-mas 'Usage for Claude (2.6)', id: 6755173244
+mas 'Microsoft Word (16.110.1)', id: 462054704
+mas 'Microsoft Excel (16.110.1)', id: 462058435
+mas 'Trello (2.16.2)', id: 1278508951
