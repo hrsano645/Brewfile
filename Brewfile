@@ -212,6 +212,6 @@ tap 'rcmdnk/file'
 brew 'brew-file'
 
 # App Store applications
-mas 'Microsoft Word (16.110.1)', id: 462054704
 mas 'Microsoft Excel (16.110.1)', id: 462058435
+mas 'Microsoft Word (16.110.1)', id: 462054704
 mas 'Trello (2.16.2)', id: 1278508951
