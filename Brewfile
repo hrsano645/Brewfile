@@ -176,6 +176,7 @@ cask 'balenaetcher'
 cask 'bambu-studio'
 cask 'beeper'
 cask 'blackhole-16ch'
+cask 'blackhole-2ch'
 cask 'cad-assistant'
 cask 'claude'
 cask 'creality-print'
@@ -212,6 +213,6 @@ tap 'rcmdnk/file'
 brew 'brew-file'
 
 # App Store applications
-mas 'Microsoft Excel (16.110.1)', id: 462058435
-mas 'Microsoft Word (16.110.1)', id: 462054704
-mas 'Trello (2.16.2)', id: 1278508951
+mas 'Microsoft Word (16.110.3)', id: 462054704
+mas 'Microsoft Excel (16.110.3)', id: 462058435
+mas 'Trello (2.16.3)', id: 1278508951
