@@ -204,6 +204,7 @@ cask 'scroll-reverser'
 cask 'slack'
 cask 'synology-drive'
 cask 'tailscale'
+cask 'vibe-island'
 cask 'visual-studio-code'
 cask 'vivaldi'
 cask 'vlc'
@@ -213,6 +214,6 @@ tap 'rcmdnk/file'
 brew 'brew-file'
 
 # App Store applications
-mas 'Microsoft Word (16.110.3)', id: 462054704
-mas 'Microsoft Excel (16.110.3)', id: 462058435
-mas 'Trello (2.16.3)', id: 1278508951
+mas 'Microsoft Word (16.111.2)', id: 462054704
+mas 'Microsoft Excel (16.111.2)', id: 462058435
+mas 'Trello (2.16.5)', id: 1278508951
