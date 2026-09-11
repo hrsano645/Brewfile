@@ -186,6 +186,7 @@ cask 'font-biz-udpgothic'
 cask 'font-plemol-jp'
 cask 'font-plemol-jp-hs'
 cask 'font-udev-gothic'
+cask 'freac'
 cask 'freecad'
 cask 'ghostty'
 cask 'google-chrome'
@@ -214,6 +215,6 @@ tap 'rcmdnk/file'
 brew 'brew-file'
 
 # App Store applications
-mas 'Microsoft Word (16.111.2)', id: 462054704
-mas 'Microsoft Excel (16.111.2)', id: 462058435
-mas 'Trello (2.16.5)', id: 1278508951
+mas 'Microsoft Word (16.112.3)', id: 462054704
+mas 'Microsoft Excel (16.112.3)', id: 462058435
+mas 'Trello (2.16.7)', id: 1278508951
