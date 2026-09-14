@@ -209,6 +209,7 @@ cask 'vibe-island'
 cask 'visual-studio-code'
 cask 'vivaldi'
 cask 'vlc'
+cask 'zed'
 cask 'zoom'
 
 tap 'rcmdnk/file'
