@@ -198,6 +198,7 @@ cask 'handy'
 cask 'inkscape'
 cask 'miniforge'
 cask 'obs'
+cask 'opendisplay'
 cask 'orcaslicer'
 cask 'raspberry-pi-imager'
 cask 'raycast'
@@ -216,6 +217,6 @@ tap 'rcmdnk/file'
 brew 'brew-file'
 
 # App Store applications
-mas 'Microsoft Word (16.112.3)', id: 462054704
-mas 'Microsoft Excel (16.112.3)', id: 462058435
+mas 'Microsoft Excel (16.113.3)', id: 462058435
+mas 'Microsoft Word (16.113.3)', id: 462054704
 mas 'Trello (2.16.7)', id: 1278508951
