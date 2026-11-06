@@ -31,6 +31,7 @@ brew 'giflib'
 brew 'glib'
 brew 'gmp'
 brew 'gnutls'
+brew 'gogcli'
 brew 'gping'
 brew 'graphite2'
 brew 'harfbuzz'
@@ -40,6 +41,7 @@ brew 'htop'
 brew 'httping'
 brew 'icu4c@77'
 brew 'icu4c@78'
+brew 'icu4c@79'
 brew 'imagemagick'
 brew 'jasper'
 brew 'jbig2dec'
@@ -133,6 +135,7 @@ brew 'protobuf'
 brew 'python@3.12'
 brew 'python@3.13'
 brew 'python@3.14'
+brew 'python@3.15'
 brew 'rav1e'
 brew 'readline'
 brew 'reattach-to-user-namespace'
@@ -158,6 +161,7 @@ brew 'unbound'
 brew 'utf8proc'
 brew 'uv'
 brew 'uvwasi'
+brew 'wakeonlan'
 brew 'webp'
 brew 'x264'
 brew 'x265'
@@ -206,6 +210,7 @@ cask 'raspberry-pi-imager'
 cask 'raycast'
 cask 'scroll-reverser'
 cask 'slack'
+cask 'solidcraft'
 cask 'synology-drive'
 cask 'tailscale'
 cask 'visual-studio-code'
@@ -214,10 +219,13 @@ cask 'vlc'
 cask 'zed'
 cask 'zoom'
 
+tap 'openclaw/tap'
+
 tap 'rcmdnk/file'
 brew 'brew-file'
 
 # App Store applications
-mas 'Microsoft Excel (16.113.3)', id: 462058435
-mas 'Microsoft Word (16.113.3)', id: 462054704
-mas 'Trello (2.16.7)', id: 1278508951
+mas 'Microsoft Word (16.114.4)', id: 462054704
+mas 'Microsoft Excel (16.114.4)', id: 462058435
+mas 'Trello (2.16.10)', id: 1278508951
+mas 'Windows App (11.4.3)', id: 1295203466
