@@ -188,6 +188,7 @@ cask 'blackhole-2ch'
 cask 'cad-assistant'
 cask 'claude'
 cask 'creality-print'
+cask 'discord'
 cask 'font-biz-udgothic'
 cask 'font-biz-udpgothic'
 cask 'font-plemol-jp'
@@ -199,6 +200,7 @@ cask 'google-cloud-sdk'
 cask 'google-drive'
 cask 'grandperspective'
 cask 'handy'
+cask 'inkscape'
 cask 'localsend'
 cask 'miniforge'
 cask 'obs'
@@ -223,5 +225,5 @@ tap 'rcmdnk/file'
 brew 'brew-file'
 
 # App Store applications
-mas 'Microsoft Excel (16.115)', id: 462058435
 mas 'Microsoft Word (16.115.1)', id: 462054704
+mas 'Microsoft Excel (16.115)', id: 462058435
