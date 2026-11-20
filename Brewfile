@@ -227,5 +227,3 @@ brew 'brew-file'
 # App Store applications
 mas 'Microsoft Excel (16.115)', id: 462058435
 mas 'Microsoft Word (16.115.1)', id: 462054704
-mas 'Trello (2.16.10)', id: 1278508951
-mas 'Windows App (11.4.3)', id: 1295203466
