@@ -186,7 +186,6 @@ cask 'bambu-studio'
 cask 'beeper'
 cask 'blackhole-2ch'
 cask 'cad-assistant'
-cask 'claude'
 cask 'creality-print'
 cask 'discord'
 cask 'font-biz-udgothic'
@@ -227,7 +226,7 @@ tap 'rcmdnk/file'
 brew 'brew-file'
 
 # App Store applications
-mas 'Microsoft Word (16.114.4)', id: 462054704
-mas 'Microsoft Excel (16.114.4)', id: 462058435
+mas 'Microsoft Excel (16.115)', id: 462058435
+mas 'Microsoft Word (16.115.1)', id: 462054704
 mas 'Trello (2.16.10)', id: 1278508951
 mas 'Windows App (11.4.3)', id: 1295203466
